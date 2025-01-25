@@ -12,7 +12,7 @@ The current data has been collected from multiple repositories and will be enric
 
 The data currently used in this project has been sourced from the following repositories:
 
-1. [ercexpo/us-news-domains](#https://github.com/ercexpo/us-news-domains)
-2. [palewire/news-homepages](#https://github.com/palewire/news-homepages)
+1. [ercexpo/us-news-domains](https://github.com/ercexpo/us-news-domains)
+2. [palewire/news-homepages](https://github.com/palewire/news-homepages)
 
 More sources will be added over time.

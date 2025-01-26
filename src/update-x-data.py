@@ -17,6 +17,7 @@ def run():
     if response:
         saveApiResponse(response)
         updateAccounts(response)
+        removeInvalidAccounts(response)
         updateProgress(BATCH_SIZE)
     else:
         print("Error during the Response retrieval.")

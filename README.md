@@ -2,9 +2,7 @@
 
 ## **Project Overview**
 
-This project aims to compile a list of major news domains along with their associated X (formerly Twitter) accounts. The repository includes automated scripts to fetch and analyze real-time statistics related to these X accounts, such as follower count, tweet activity, and engagement metrics.
-
-While the focus of the project primarily covers the **United States**, it also includes data from international news sources. However, at present, the dataset contains a higher volume of data related to US-based news sources.
+This project aims to compile a list of major **news domains** along with their associated X (formerly Twitter) accounts. The repository includes automated scripts to fetch real-time statistics related to these X accounts, such as follower count, tweet activity, and engagement metrics.
 
 This project leverages the **free tier** of the X API, which imposes certain limitations, particularly allowing **only one request per day**, with each request capable of retrieving data for up to **100 accounts at a time**. Despite these constraints, we have implemented an efficient update system that ensures continuous and meaningful data collection over time.
 

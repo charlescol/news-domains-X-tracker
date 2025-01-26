@@ -1,3 +1,9 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepository)
+![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/yourrepository)
+![GitHub issues](https://img.shields.io/github/issues/yourusername/yourrepository)
+![GitHub license](https://img.shields.io/github/license/yourusername/yourrepository)
+![GitHub workflow status](https://img.shields.io/github/actions/workflow/status/yourusername/yourrepository/update-data.yml)
+
 # US & International News Domains Twitter Stats Tracker
 
 ## **Project Overview**
@@ -39,3 +45,9 @@ The data currently used in this project has been sourced from the following repo
 2. [palewire/news-homepages](https://github.com/palewire/news-homepages)
 
 More sources will be added over time.
+
+---
+
+## **Contributing**
+
+We welcome contributions to expand the dataset and improve automation workflows. Feel free to submit issues and pull requests.

@@ -1,8 +1,7 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepository)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/yourrepository)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/yourrepository)
-![GitHub license](https://img.shields.io/github/license/yourusername/yourrepository)
-![GitHub workflow status](https://img.shields.io/github/actions/workflow/status/yourusername/yourrepository/update-data.yml)
+![GitHub last commit](https://img.shields.io/github/last-commit/charlescol/news-domains-X-tracker)
+![GitHub repo size](https://img.shields.io/github/repo-size/charlescol/news-domains-X-tracker)
+![GitHub issues](https://img.shields.io/github/issues/charlescol/news-domains-X-tracker)
+![GitHub license](https://img.shields.io/github/license/charlescol/news-domains-X-tracker)
 
 # US & International News Domains Twitter Stats Tracker
 

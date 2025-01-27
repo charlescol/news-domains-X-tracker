@@ -18,6 +18,11 @@ jobs:
         with:
           persist-credentials: true
           fetch-depth: 0
+      
+      - name: Allow Git to use the cloned repository
+        run: |
+          # On autorise le répertoire cloné à être utilisé par Git
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
 
       - name: Show repository content
         run: |

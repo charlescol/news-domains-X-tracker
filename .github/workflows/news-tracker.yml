@@ -72,7 +72,7 @@ jobs:
           git push origin chore/update-stats-bot
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5
+        uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: chore/update-stats-bot
@@ -83,3 +83,4 @@ jobs:
           labels: "automated-update"
           merge-method: squash
           auto-merge: true
+          delete-branch: true

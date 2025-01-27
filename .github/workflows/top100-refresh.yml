@@ -26,25 +26,9 @@ jobs:
             pip install -r requirements.txt
           fi
 
-      - name: Determine Token
-        id: token-rotation
-        run: |
-          python .github/scripts/determine_token.py
-        env:
-          X_BEARER_TOKEN_1: ${{ secrets.X_BEARER_TOKEN_1 }}
-          X_BEARER_TOKEN_2: ${{ secrets.X_BEARER_TOKEN_2 }}
-          X_BEARER_TOKEN_3: ${{ secrets.X_BEARER_TOKEN_3 }}
-
-      - name: Check if we have a valid token
-        if: ${{ steps.token-rotation.outputs.token == '' }}
-        run: |
-          echo "No token available. Skipping this run."
-          exit 0
-
       - name: Run Top 100 script
         env:
-          X_BEARER_TOKEN: ${{ steps.token-rotation.outputs.token }}
-          TOP_100_REFRESH: "1"
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN_4 }}
         run: |
           python src/top100_refresh.py
 

@@ -11,7 +11,7 @@ This project aims to compile a list of major **news domains** along with their a
 
 This project leverages the **free tier** of the X API, which imposes certain limitations, particularly allowing **only one request per day**, with each request capable of retrieving data for up to **100 accounts at a time**. Despite these constraints, we have implemented an efficient update system that ensures continuous and meaningful data collection over time.
 
-The current dataset contains around 4K X accounts collected from multiple sources and will be continuously enriched and updated.
+The current dataset contains around 4000 accounts collected from multiple sources and will be continuously enriched and updated.
 
 ---
 

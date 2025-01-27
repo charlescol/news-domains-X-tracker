@@ -1,3 +1,4 @@
 xenv
 .env
 state/progress.json
+!state/progress.json

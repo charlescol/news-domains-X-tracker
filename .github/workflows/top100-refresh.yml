@@ -36,14 +36,28 @@ jobs:
         run: |
           python src/top100_refresh.py
 
-      - name: Commit & push changes
+      - name: Commit & push to temp branch
         run: |
-          cd $GITHUB_WORKSPACE
-
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          git checkout -b chore/update-stats-bot || git checkout chore/update-stats-bot
+
           git add .
-          # Ne commit que s'il y a de vraies modifications
-          git diff-index --quiet HEAD || git commit -m "Update top100 stats $(date +'%Y-%m-%d %H:%M:%S')"
-          git push
+          git diff-index --quiet HEAD || \
+            git commit -m "chore: update stats $(date +'%Y-%m-%d %H:%M:%S')"
+
+          git push origin chore/update-stats-bot
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: chore/update-stats-bot
+          base: main
+          title: "chore: update stats"
+          body: "Automated update of stats."
+          commit-message: "chore: update stats $(date +'%Y-%m-%d %H:%M:%S')"
+          labels: "automated-update"
+          merge-method: squash
+          auto-merge: true

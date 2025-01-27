@@ -3,8 +3,7 @@ from resources import (
     fetchXStats,
     saveApiResponse,
     updateAccounts,
-    flagInvalidAccounts,
-    updateProgress
+    flagInvalidAccounts
 )
 
 def run(): 

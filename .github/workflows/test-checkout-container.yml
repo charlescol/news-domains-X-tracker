@@ -1,0 +1,26 @@
+name: "Test container checkout"
+
+on:
+  push:
+
+jobs:
+  container-test:
+    runs-on: ubuntu-latest
+    container:
+      image: python:3.10-slim
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Install Git
+        run: |
+          apt-get update
+          apt-get install -y git
+
+      - name: Show repository content
+        run: |
+          pwd
+          ls -la
+          git status

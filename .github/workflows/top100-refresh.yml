@@ -15,16 +15,20 @@ jobs:
       contents: write  
 
     steps:
+      - name: Install Git
+        run: |
+          apt-get update
+          apt-get install -y git
+
       - name: Check out repository
         uses: actions/checkout@v3
 
       - name: Install dependencies
         run: |
-          apt-get update
-          apt-get install -y git
           if [ -f "requirements.txt" ]; then
             pip install -r requirements.txt
           fi
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
 
       - name: Run Top 100 script
         env:
@@ -35,7 +39,7 @@ jobs:
       - name: Commit & push changes
         run: |
           cd $GITHUB_WORKSPACE
-          
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 

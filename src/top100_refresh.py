@@ -1,6 +1,6 @@
 from resources import (
     extractUsernames,
-    fetchXStatsMocks,
+    fetchXStats,
     saveApiResponse,
     updateAccounts,
     flagInvalidAccounts,
@@ -9,7 +9,7 @@ from resources import (
 
 def run(): 
     usernames = extractUsernames()
-    response = fetchXStatsMocks(",".join(usernames))
+    response = fetchXStats(",".join(usernames))
     print(response)
     if response:
         saveApiResponse(response)

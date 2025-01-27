@@ -1,0 +1,61 @@
+name: US & International News Twitter Stats Tracker
+
+on:
+  schedule:
+    - cron: "0 13 * * *"  # 8am EAST
+    - cron: "0 19 * * *"  # 2pm EAST
+    - cron: "0 1 * * *"   # 8pm EAST
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    container:
+      image: python:3.10-slim
+
+    permissions:
+      contents: write 
+    
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          apt-get update
+          apt-get install -y git
+          if [ -f "requirements.txt" ]; then
+            pip install -r requirements.txt
+          fi
+
+      - name: Determine Token
+        id: token-rotation
+        run: |
+          python .github/scripts/determine_token.py
+        env:
+          X_BEARER_TOKEN_1: ${{ secrets.X_BEARER_TOKEN_1 }}
+          X_BEARER_TOKEN_2: ${{ secrets.X_BEARER_TOKEN_2 }}
+          X_BEARER_TOKEN_3: ${{ secrets.X_BEARER_TOKEN_3 }}
+
+      - name: Check if we have a valid token
+        if: ${{ steps.token-rotation.outputs.token == '' }}
+        run: |
+          echo "No token available. Skipping this run."
+          exit 0
+
+      - name: Run script
+        env:
+          X_BEARER_TOKEN: ${{ steps.token-rotation.outputs.token }}
+        run: |
+          echo "Using token: $X_BEARER_TOKEN"
+          python src/news_tracker_run.py
+
+      - name: Commit & push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add .
+          # Only commit if there are changes
+          git diff-index --quiet HEAD || git commit -m "Update stats $(date +'%Y-%m-%d %H:%M:%S')"
+          git push

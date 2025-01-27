@@ -1,0 +1,59 @@
+name: "Top 100 Daily Refresh"
+
+on:
+  schedule:
+    - cron: "0 12 * * *" # 7am EAST
+  workflow_dispatch:
+
+jobs:
+  top-100-update:
+    runs-on: ubuntu-latest
+    container:
+      image: python:3.10-slim
+
+    permissions:
+      contents: write  
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          apt-get update
+          apt-get install -y git
+          if [ -f "requirements.txt" ]; then
+            pip install -r requirements.txt
+          fi
+
+      - name: Determine Token
+        id: token-rotation
+        run: |
+          python .github/scripts/determine_token.py
+        env:
+          X_BEARER_TOKEN_1: ${{ secrets.X_BEARER_TOKEN_1 }}
+          X_BEARER_TOKEN_2: ${{ secrets.X_BEARER_TOKEN_2 }}
+          X_BEARER_TOKEN_3: ${{ secrets.X_BEARER_TOKEN_3 }}
+
+      - name: Check if we have a valid token
+        if: ${{ steps.token-rotation.outputs.token == '' }}
+        run: |
+          echo "No token available. Skipping this run."
+          exit 0
+
+      - name: Run Top 100 script
+        env:
+          X_BEARER_TOKEN: ${{ steps.token-rotation.outputs.token }}
+          TOP_100_REFRESH: "1"
+        run: |
+          python src/top100_refresh.py
+
+      - name: Commit & push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add .
+          # Ne commit que s'il y a de vraies modifications
+          git diff-index --quiet HEAD || git commit -m "Update top100 stats $(date +'%Y-%m-%d %H:%M:%S')"
+          git push

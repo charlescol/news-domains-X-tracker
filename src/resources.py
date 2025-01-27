@@ -6,25 +6,12 @@ from datetime import datetime, timezone
 
 CSV_FILE = 'news-domains-x.csv' # News domains dataset
 PROGRESS_FILE = 'state/progress.json' # Progress file
-BATCH_SIZE = 50  # Max number of X accounts to fetch per request
-MAX_LOGS_RETENTION = 10 # Max number of logs to keep
+BATCH_SIZE = 100  # Max number of X accounts to fetch per request
+MAX_LOGS_RETENTION = 12 # Max number of logs to keep
 LOG_DIR = 'state/logs' # Logs directory
 
 TOKEN = os.getenv("X_BEARER_TOKEN")
 
-def run(): 
-    usernames = extractUsernames()
-    response = fetchXStatsMocks(",".join(usernames))
-    print(response)
-    if response:
-        saveApiResponse(response)
-        updateAccounts(response)
-        flagInvalidAccounts(response)
-
-        updateProgress(len(usernames))
-    else:
-        print("Error during the Response retrieval.")
-    
 def saveApiResponse(response):
     os.makedirs(LOG_DIR, exist_ok=True)
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -54,13 +41,14 @@ def manage_log_retention():
     except Exception as e:
         print(f"Error during log retention management: {e}")
 
-def extractUsernames():
+def extractUsernames(useProgressFile=False):
     if not os.path.exists(CSV_FILE):
         print(f"Error: {CSV_FILE} does not exist.")
         return []
 
     df = pd.read_csv(CSV_FILE)
-    if os.path.exists(PROGRESS_FILE):
+
+    if os.path.exists(PROGRESS_FILE) and useProgressFile:
         with open(PROGRESS_FILE, 'r') as f:
             progress = json.load(f)
     else:
@@ -209,6 +197,3 @@ def updateProgress(processed_count):
     print(f"Udated Progress: index sets to value {progress['currentIndex']}.")
 
 
-
-if __name__ == "__main__":
-    run()

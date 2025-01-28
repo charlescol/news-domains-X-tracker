@@ -70,7 +70,7 @@ def extractUsernames(useProgressFile=False):
     return [u.lower().strip() for u in usernames]
 
 
-def fetchXStatsMocks(usernames): 
+def fetchXStatsMocks(usernames, token): 
     if not os.path.exists('test/mock-api-response.json'):
         print("Error: mock-api-response.json does not exist.")
         return None

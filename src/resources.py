@@ -148,9 +148,8 @@ def flagInvalidAccounts(apiResponse):
     accounts_to_flag = []
 
     for error in apiResponse['errors']:
-        if error.get('title') == 'Not Found Error':
-            account = error.get('value', '').lower().strip()
-            accounts_to_flag.append(account)
+        account = error.get('value', '').lower().strip()
+        accounts_to_flag.append(account)
 
     if accounts_to_flag:
         df.loc[df['Username'].isin(accounts_to_flag), 'isActive'] = 0

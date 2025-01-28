@@ -21,7 +21,7 @@ def run():
 
             updateProgress(len(usernames))
         else:
-            raise Exception("Error during the Response retrieval.")
+            print('Error during the Response retrieval.')
 
 if __name__ == "__main__":
     run()

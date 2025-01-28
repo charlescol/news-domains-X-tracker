@@ -1,3 +1,4 @@
+import os
 from resources import (
     extractUsernames,
     fetchXStats,
@@ -8,17 +9,19 @@ from resources import (
 )
 
 def run(): 
-    usernames = extractUsernames(useProgressFile=True)
-    response = fetchXStats(",".join(usernames))
-    print(response)
-    if response:
-        saveApiResponse(response)
-        updateAccounts(response)
-        flagInvalidAccounts(response)
+    tokens = [os.getenv("X_BEARER_TOKEN_2"), os.getenv("X_BEARER_TOKEN_3"), os.getenv("X_BEARER_TOKEN_4")]
+    for token in tokens:
+        usernames = extractUsernames(useProgressFile=True)
+        response = fetchXStats(",".join(usernames), token)
+        print(response)
+        if response:
+            saveApiResponse(response)
+            updateAccounts(response)
+            flagInvalidAccounts(response)
 
-        updateProgress(len(usernames))
-    else:
-        print("Error during the Response retrieval.")
+            updateProgress(len(usernames))
+        else:
+            raise Exception("Error during the Response retrieval.")
 
 if __name__ == "__main__":
     run()

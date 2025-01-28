@@ -3,8 +3,6 @@ name: US & International News Twitter Stats Tracker
 on:
   schedule:
     - cron: "0 13 * * *"  # 8am EAST
-    - cron: "0 19 * * *"  # 2pm EAST
-    - cron: "0 1 * * *"   # 8pm EAST
   workflow_dispatch:
 
 jobs:
@@ -36,26 +34,12 @@ jobs:
           fi
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
 
-      - name: Determine Token
-        id: token-rotation
-        run: |
-          python .github/scripts/determine_token.py
-        env:
-          X_BEARER_TOKEN_1: ${{ secrets.X_BEARER_TOKEN_1 }}
-          X_BEARER_TOKEN_2: ${{ secrets.X_BEARER_TOKEN_2 }}
-          X_BEARER_TOKEN_3: ${{ secrets.X_BEARER_TOKEN_3 }}
-
-      - name: Check if we have a valid token
-        if: ${{ steps.token-rotation.outputs.token == '' }}
-        run: |
-          echo "No token available. Skipping this run."
-          exit 0
-
       - name: Run script
         env:
-          X_BEARER_TOKEN: ${{ steps.token-rotation.outputs.token }}
+          X_BEARER_TOKEN_1: ${{ secrets.X_BEARER_TOKEN_2 }}
+          X_BEARER_TOKEN_2: ${{ secrets.X_BEARER_TOKEN_3 }}
+          X_BEARER_TOKEN_3: ${{ secrets.X_BEARER_TOKEN_4 }}
         run: |
-          echo "Using token: $X_BEARER_TOKEN"
           python src/news_tracker_run.py
 
       - name: Commit & push changes

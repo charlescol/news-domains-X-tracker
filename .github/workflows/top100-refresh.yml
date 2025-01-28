@@ -32,7 +32,7 @@ jobs:
 
       - name: Run Top 100 script
         env:
-          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN_4 }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN_1 }}
         run: |
           python src/top100_refresh.py
 

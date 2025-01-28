@@ -10,8 +10,6 @@ BATCH_SIZE = 100  # Max number of X accounts to fetch per request
 MAX_LOGS_RETENTION = 12 # Max number of logs to keep
 LOG_DIR = 'state/logs' # Logs directory
 
-TOKEN = os.getenv("X_BEARER_TOKEN")
-
 def saveApiResponse(response):
     os.makedirs(LOG_DIR, exist_ok=True)
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -80,10 +78,10 @@ def fetchXStatsMocks(usernames):
         return json.load(f)
 
 
-def fetchXStats(usernames): 
+def fetchXStats(usernames, token): 
     url = "https://api.x.com/2/users/by"
     querystring = {"usernames":usernames,"user.fields":"public_metrics","tweet.fields":"public_metrics"}
-    headers = {"Authorization": f"Bearer {TOKEN}"}
+    headers = {"Authorization": f"Bearer {token}"}
     try:
         response = requests.get(url, headers=headers, params=querystring)
         response.raise_for_status() 

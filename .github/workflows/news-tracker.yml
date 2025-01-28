@@ -2,7 +2,7 @@ name: US & International News Twitter Stats Tracker
 
 on:
   schedule:
-    - cron: "0 13 * * *"  # 8am EAST
+    - cron: "0 16 * * *"  # 10am EAST
   workflow_dispatch:
 
 jobs:

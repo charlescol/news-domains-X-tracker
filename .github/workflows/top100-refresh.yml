@@ -2,7 +2,7 @@ name: "Top 100 Daily Refresh"
 
 on:
   schedule:
-    - cron: "0 12 * * *" # 7am EAST
+    - cron: "0 15 * * *" # 9 am EAST
   workflow_dispatch:
 
 jobs:

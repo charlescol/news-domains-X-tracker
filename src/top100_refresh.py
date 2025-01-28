@@ -1,7 +1,7 @@
 import os
 from resources import (
     extractUsernames,
-    fetchXStatsMocks,
+    fetchXStats,
     saveApiResponse,
     updateAccounts,
     flagInvalidAccounts
@@ -10,7 +10,7 @@ from resources import (
 def run(): 
     token = os.getenv("X_BEARER_TOKEN")
     usernames = extractUsernames()
-    response = fetchXStatsMocks(",".join(usernames), token)
+    response = fetchXStats(",".join(usernames), token)
     print(response)
     if response:
         saveApiResponse(response)

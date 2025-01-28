@@ -11,16 +11,16 @@ This project aims to compile a list of major **news domains** along with their a
 
 - Top 100 accounts (sorted by followers) are updated daily. 
 - The other records are updated daily in batches of 300.
-
-This project leverages the **free tier** of the X API, which imposes certain limitations, particularly allowing **only one request per day**, with each request capable of retrieving data for up to **100 accounts at a time**. Despite these constraints, we have implemented an efficient update system that ensures continuous and meaningful data collection over time.
-
+  
 The current dataset contains around 4000 accounts collected from multiple sources and will be continuously enriched and updated.
+
+This project leverages **multiple free-tier** accounts of the X API to implement its refreshing strategy. Each account can retrieve data for up to 100 accounts daily, a limitation imposed by the X API.
 
 ---
 
 ## **Auto-Update Process**
 
-The project leverages **GitHub Actions** to automatically update the statistics for tracked X accounts despite the API's strict limitations.
+The project leverages **GitHub Actions** to automatically update the statistics for tracked X accounts:
 
 ### **Workflow:**
 1. **Job 1 (Real-time priority refresh):**  

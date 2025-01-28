@@ -133,7 +133,7 @@ def removeFlaggedAccounts():
     df = pd.read_csv(CSV_FILE)
     
     initial_count = len(df)
-    df = df[df['isActive'] != 0]
+    df = df[df['IsActive'] != 0]
     df.to_csv(CSV_FILE, index=False)
     
     removed_count = initial_count - len(df)
@@ -152,7 +152,9 @@ def flagInvalidAccounts(apiResponse):
         accounts_to_flag.append(account)
 
     if accounts_to_flag:
-        df.loc[df['Username'].isin(accounts_to_flag), 'isActive'] = 0
+        rowsToflag = df['Username'].isin(accounts_to_flag)
+        df.loc[rowsToflag, 'IsActive'] = 0
+        df.loc[rowsToflag, 'LastModifiedDate'] = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
         df.to_csv(CSV_FILE, index=False)
         print(f"{len(accounts_to_flag)} ivalid accounts flagged.")
 

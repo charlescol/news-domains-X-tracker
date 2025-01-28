@@ -24,7 +24,7 @@ The project leverages **GitHub Actions** to automatically update the statistics 
    - Updates the **top 100 most-followed accounts** daily.
    
 2. **Job 2 & Job 3 & Job 4 (Incremental updates):**  
-   - These jobs run in parallel to process accounts in batches of 100. With 3 tokens currently available, records are updated daily in batches of 300.
+   - These jobs run in parallel to process accounts in batches of 100. With 3 tokens currently available, **records are updated daily in batches of 300**.
    - The progress is tracked using a JSON file (`state/progress.json`) to ensure no accounts are skipped.
 
 3. **Reordering and Cleaning:**  

@@ -23,9 +23,9 @@ The project leverages **GitHub Actions** to automatically update the statistics 
 1. **Job 1 (Real-time priority refresh):**  
    - Updates the **top 100 most-followed accounts** daily.
    
-2. **Job 2 & Job 3 (Incremental updates):**  
-   - These jobs work in parallel to process accounts in batches of 100.
-   - The progress is tracked using a JSON file (`state/progress1.json`) to ensure no accounts are skipped.
+2. **Job 2 & Job 3 & Job 4 (Incremental updates):**  
+   - These jobs run in parallel to process accounts in batches of 100. With 3 tokens currently available, records are updated daily in batches of 300.
+   - The progress is tracked using a JSON file (`state/progress.json`) to ensure no accounts are skipped.
 
 3. **Reordering and Cleaning:**  
    - Once the entire list has been processed, it is re-sorted based on the number of followers.

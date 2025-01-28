@@ -11,6 +11,10 @@ MAX_LOGS_RETENTION = 12 # Max number of logs to keep
 LOG_DIR = 'state/logs' # Logs directory
 
 def saveApiResponse(response):
+    """
+    Saves the API response to a timestamped JSON file in the logs directory.
+    Ensures the directory exists and manages log retention to limit the number of logs.
+    """
     os.makedirs(LOG_DIR, exist_ok=True)
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     log_file = os.path.join(LOG_DIR, f'api-response_{timestamp}.json')
@@ -25,6 +29,9 @@ def saveApiResponse(response):
         print(f"Error during the saving of the API response: {e}")
 
 def manage_log_retention():
+    """
+    Deletes the oldest log files to ensure the number of retained logs does not exceed MAX_LOGS_RETENTION.
+    """
     try:
         log_files = sorted(
             [f for f in os.listdir(LOG_DIR) if f.startswith('api-response_') and f.endswith('.json')],
@@ -40,6 +47,10 @@ def manage_log_retention():
         print(f"Error during log retention management: {e}")
 
 def extractUsernames(useProgressFile=False):
+    """
+    Extracts a batch of usernames from the CSV file for processing.
+    Optionally uses a progress file to resume from the last processed index.
+    """
     if not os.path.exists(CSV_FILE):
         print(f"Error: {CSV_FILE} does not exist.")
         return []
@@ -71,6 +82,9 @@ def extractUsernames(useProgressFile=False):
 
 
 def fetchXStatsMocks(usernames, token): 
+    """
+    Fetches mock API response data for testing purposes.
+    """
     if not os.path.exists('test/mock-api-response.json'):
         print("Error: mock-api-response.json does not exist.")
         return None
@@ -79,6 +93,9 @@ def fetchXStatsMocks(usernames, token):
 
 
 def fetchXStats(usernames, token): 
+    """
+    Sends a request to the X API to fetch statistics for a list of usernames.
+    """
     url = "https://api.x.com/2/users/by"
     querystring = {"usernames":usernames,"user.fields":"public_metrics","tweet.fields":"public_metrics"}
     headers = {"Authorization": f"Bearer {token}"}
@@ -95,6 +112,9 @@ def fetchXStats(usernames, token):
 
 
 def updateAccounts(apiResponse):
+    """
+    Updates the CSV file with new account data from the API response.
+    """
     if not apiResponse or 'data' not in apiResponse:
         print("No data to update.")
         return
@@ -130,6 +150,10 @@ def updateAccounts(apiResponse):
 
 
 def removeFlaggedAccounts():
+    """
+    Removes accounts flagged as inactive (IsActive == 0) from the CSV file.
+    Updates the file and prints the number of removed accounts.
+    """
     df = pd.read_csv(CSV_FILE)
     
     initial_count = len(df)
@@ -141,6 +165,10 @@ def removeFlaggedAccounts():
     
 
 def flagInvalidAccounts(apiResponse):
+    """
+    Flags accounts as inactive (IsActive = 0) based on errors in the API response.
+    Updates the CSV file and sets the last modified date for flagged accounts.
+    """
     if not apiResponse or 'errors' not in apiResponse:
         return
     df = pd.read_csv(CSV_FILE)
@@ -159,6 +187,10 @@ def flagInvalidAccounts(apiResponse):
         print(f"{len(accounts_to_flag)} ivalid accounts flagged.")
 
 def sortCSVByFollowers():
+    """
+    Sorts the CSV file by the number of followers in descending order.
+    Updates the file and prints a confirmation message.
+    """
     df = pd.read_csv(CSV_FILE)
     df = df.sort_values(by='Followers', ascending=False)
     df.to_csv(CSV_FILE, index=False)
@@ -166,6 +198,10 @@ def sortCSVByFollowers():
 
 
 def updateProgress(processed_count):
+    """
+    Updates the progress file with the number of accounts processed.
+    If a full cycle is completed, flagged accounts are removed, and the file is sorted by followers.
+    """
     if os.path.exists(PROGRESS_FILE):
         with open(PROGRESS_FILE, 'r') as f:
             progress = json.load(f)

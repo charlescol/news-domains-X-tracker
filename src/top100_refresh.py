@@ -8,6 +8,9 @@ from resources import (
 )
 
 def run(): 
+    """
+    Updates the top 100 most-followed accounts daily.
+    """
     token = os.getenv("X_BEARER_TOKEN")
     usernames = extractUsernames()
     response = fetchXStats(",".join(usernames), token)

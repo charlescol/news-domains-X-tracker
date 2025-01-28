@@ -2,3 +2,4 @@ xenv
 .env
 state/progress.json
 !state/progress.json
+src/__pycache__

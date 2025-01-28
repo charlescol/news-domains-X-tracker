@@ -9,7 +9,7 @@ from resources import (
 )
 
 def run(): 
-    tokens = [os.getenv("X_BEARER_TOKEN_2"), os.getenv("X_BEARER_TOKEN_3"), os.getenv("X_BEARER_TOKEN_4")]
+    tokens = [os.getenv("X_BEARER_TOKEN_1"), os.getenv("X_BEARER_TOKEN_2"), os.getenv("X_BEARER_TOKEN_3")]
     for token in tokens:
         usernames = extractUsernames(useProgressFile=True)
         response = fetchXStats(",".join(usernames), token)

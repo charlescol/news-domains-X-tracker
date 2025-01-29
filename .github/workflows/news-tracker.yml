@@ -2,7 +2,7 @@ name: US & International News Twitter Stats Tracker
 
 on:
   schedule:
-    - cron: "0 16 * * *"  # 10am EAST
+    - cron: "0 16 * * *"  
   workflow_dispatch:
 
 jobs:
@@ -39,6 +39,7 @@ jobs:
           X_BEARER_TOKEN_1: ${{ secrets.X_BEARER_TOKEN_2 }}
           X_BEARER_TOKEN_2: ${{ secrets.X_BEARER_TOKEN_3 }}
           X_BEARER_TOKEN_3: ${{ secrets.X_BEARER_TOKEN_4 }}
+          X_BEARER_TOKEN_4: ${{ secrets.X_BEARER_TOKEN_1 }} # Temporary
         run: |
           python src/news_tracker_run.py
 

@@ -1,0 +1,1253 @@
+{
+    "timestamp": "20250206_214125",
+    "response": {
+        "data": [
+            {
+                "username": "PE1909",
+                "name": "Pleasanton Express",
+                "id": "193991291",
+                "public_metrics": {
+                    "followers_count": 2975,
+                    "following_count": 153,
+                    "tweet_count": 20178,
+                    "listed_count": 25,
+                    "like_count": 637,
+                    "media_count": 4140
+                }
+            },
+            {
+                "username": "plumasnews",
+                "name": "plumasnews.com",
+                "id": "75306293",
+                "public_metrics": {
+                    "followers_count": 706,
+                    "following_count": 54,
+                    "tweet_count": 8918,
+                    "listed_count": 14,
+                    "like_count": 0,
+                    "media_count": 37
+                }
+            },
+            {
+                "username": "pocahontastimes",
+                "name": "pocahontastimes",
+                "id": "541009321",
+                "public_metrics": {
+                    "followers_count": 851,
+                    "following_count": 187,
+                    "tweet_count": 1428,
+                    "listed_count": 27,
+                    "like_count": 0,
+                    "media_count": 1
+                }
+            },
+            {
+                "username": "PBJonline",
+                "name": "PBJ",
+                "id": "52447679",
+                "public_metrics": {
+                    "followers_count": 834,
+                    "following_count": 528,
+                    "tweet_count": 2690,
+                    "listed_count": 28,
+                    "like_count": 283,
+                    "media_count": 18
+                }
+            },
+            {
+                "username": "ThePolitiChicks",
+                "name": "The PolitiChicks",
+                "id": "431698111",
+                "public_metrics": {
+                    "followers_count": 20311,
+                    "following_count": 4244,
+                    "tweet_count": 21976,
+                    "listed_count": 187,
+                    "like_count": 18963,
+                    "media_count": 495
+                }
+            },
+            {
+                "username": "PolkIONews",
+                "name": "Itemizer-Observer",
+                "id": "1287220969",
+                "public_metrics": {
+                    "followers_count": 651,
+                    "following_count": 64,
+                    "tweet_count": 1105,
+                    "listed_count": 26,
+                    "like_count": 33,
+                    "media_count": 243
+                }
+            },
+            {
+                "username": "Pomeradonews",
+                "name": "Pomerado News",
+                "id": "183422908",
+                "public_metrics": {
+                    "followers_count": 1175,
+                    "following_count": 137,
+                    "tweet_count": 6381,
+                    "listed_count": 45,
+                    "like_count": 11,
+                    "media_count": 2
+                }
+            },
+            {
+                "username": "TheDailyLeader",
+                "name": "The Daily Leader",
+                "id": "774342162",
+                "public_metrics": {
+                    "followers_count": 427,
+                    "following_count": 465,
+                    "tweet_count": 2130,
+                    "listed_count": 41,
+                    "like_count": 172,
+                    "media_count": 124
+                }
+            },
+            {
+                "username": "PortASouthJetty",
+                "name": "SouthJettyNewspaper",
+                "id": "65429553",
+                "public_metrics": {
+                    "followers_count": 2672,
+                    "following_count": 3,
+                    "tweet_count": 3396,
+                    "listed_count": 36,
+                    "like_count": 1,
+                    "media_count": 0
+                }
+            },
+            {
+                "username": "pcnewsherald",
+                "name": "News Herald",
+                "id": "34543494",
+                "public_metrics": {
+                    "followers_count": 3115,
+                    "following_count": 90,
+                    "tweet_count": 34305,
+                    "listed_count": 116,
+                    "like_count": 6,
+                    "media_count": 8800
+                }
+            },
+            {
+                "username": "pdxobserver",
+                "name": "Portland Observer",
+                "id": "49713826",
+                "public_metrics": {
+                    "followers_count": 1326,
+                    "following_count": 254,
+                    "tweet_count": 1231,
+                    "listed_count": 71,
+                    "like_count": 82,
+                    "media_count": 186
+                }
+            },
+            {
+                "username": "ValleyTimes",
+                "name": "BeavertonValleyTimes",
+                "id": "67451138",
+                "public_metrics": {
+                    "followers_count": 2704,
+                    "following_count": 587,
+                    "tweet_count": 9644,
+                    "listed_count": 151,
+                    "like_count": 100,
+                    "media_count": 973
+                }
+            },
+            {
+                "username": "poinews",
+                "name": "PO Independent",
+                "id": "39608477",
+                "public_metrics": {
+                    "followers_count": 1092,
+                    "following_count": 274,
+                    "tweet_count": 1645,
+                    "listed_count": 49,
+                    "like_count": 3,
+                    "media_count": 18
+                }
+            },
+            {
+                "username": "LktPostRegister",
+                "name": "LockhartPostRegister",
+                "id": "114494322",
+                "public_metrics": {
+                    "followers_count": 620,
+                    "following_count": 203,
+                    "tweet_count": 1948,
+                    "listed_count": 21,
+                    "like_count": 22,
+                    "media_count": 12
+                }
+            },
+            {
+                "username": "GlenwoodPI",
+                "name": "Post Independent",
+                "id": "2496996247",
+                "public_metrics": {
+                    "followers_count": 2798,
+                    "following_count": 570,
+                    "tweet_count": 14562,
+                    "listed_count": 108,
+                    "like_count": 764,
+                    "media_count": 2260
+                }
+            },
+            {
+                "username": "OaklandPostNews",
+                "name": "Post News Group",
+                "id": "253692401",
+                "public_metrics": {
+                    "followers_count": 5597,
+                    "following_count": 772,
+                    "tweet_count": 14248,
+                    "listed_count": 251,
+                    "like_count": 320,
+                    "media_count": 6018
+                }
+            },
+            {
+                "username": "postsignal",
+                "name": "Post-Signal",
+                "id": "821904282",
+                "public_metrics": {
+                    "followers_count": 1080,
+                    "following_count": 32,
+                    "tweet_count": 7363,
+                    "listed_count": 17,
+                    "like_count": 73,
+                    "media_count": 2338
+                }
+            },
+            {
+                "username": "PotomacAlmanac",
+                "name": "Potomac Almanac",
+                "id": "303851879",
+                "public_metrics": {
+                    "followers_count": 836,
+                    "following_count": 524,
+                    "tweet_count": 7299,
+                    "listed_count": 41,
+                    "like_count": 1022,
+                    "media_count": 672
+                }
+            },
+            {
+                "username": "pp_independent",
+                "name": "P.P. Independent",
+                "id": "1038159361",
+                "public_metrics": {
+                    "followers_count": 146,
+                    "following_count": 93,
+                    "tweet_count": 873,
+                    "listed_count": 5,
+                    "like_count": 16,
+                    "media_count": 25
+                }
+            },
+            {
+                "username": "PressLeader",
+                "name": "Press-Leader",
+                "id": "2541744122",
+                "public_metrics": {
+                    "followers_count": 163,
+                    "following_count": 108,
+                    "tweet_count": 308,
+                    "listed_count": 9,
+                    "like_count": 4,
+                    "media_count": 189
+                }
+            },
+            {
+                "username": "pressandguide",
+                "name": "Press & Guide",
+                "id": "115517580",
+                "public_metrics": {
+                    "followers_count": 2987,
+                    "following_count": 513,
+                    "tweet_count": 42157,
+                    "listed_count": 88,
+                    "like_count": 54,
+                    "media_count": 32445
+                }
+            },
+            {
+                "username": "NewsJasper",
+                "name": "Press Mentor",
+                "id": "858253806",
+                "public_metrics": {
+                    "followers_count": 406,
+                    "following_count": 167,
+                    "tweet_count": 3171,
+                    "listed_count": 36,
+                    "like_count": 85,
+                    "media_count": 29
+                }
+            },
+            {
+                "username": "pressnewspapers",
+                "name": "The Press Newspapers",
+                "id": "266586168",
+                "public_metrics": {
+                    "followers_count": 809,
+                    "following_count": 344,
+                    "tweet_count": 4022,
+                    "listed_count": 33,
+                    "like_count": 33,
+                    "media_count": 32
+                }
+            },
+            {
+                "username": "phollowpeople",
+                "name": "Preston Hollow People",
+                "id": "115173752",
+                "public_metrics": {
+                    "followers_count": 2823,
+                    "following_count": 389,
+                    "tweet_count": 12522,
+                    "listed_count": 40,
+                    "like_count": 319,
+                    "media_count": 6467
+                }
+            },
+            {
+                "username": "princetonherald",
+                "name": "The Princeton Herald",
+                "id": "57678023",
+                "public_metrics": {
+                    "followers_count": 1146,
+                    "following_count": 76,
+                    "tweet_count": 4860,
+                    "listed_count": 23,
+                    "like_count": 47,
+                    "media_count": 152
+                }
+            },
+            {
+                "username": "pauldingpaper",
+                "name": "Paulding Progress",
+                "id": "211539279",
+                "public_metrics": {
+                    "followers_count": 634,
+                    "following_count": 22,
+                    "tweet_count": 4864,
+                    "listed_count": 20,
+                    "like_count": 4,
+                    "media_count": 9
+                }
+            },
+            {
+                "username": "ProgressTimes",
+                "name": "Progress Times",
+                "id": "24940286",
+                "public_metrics": {
+                    "followers_count": 2131,
+                    "following_count": 271,
+                    "tweet_count": 7872,
+                    "listed_count": 25,
+                    "like_count": 940,
+                    "media_count": 501
+                }
+            },
+            {
+                "username": "PSDispatch",
+                "name": "Sunday Dispatch",
+                "id": "1585840140",
+                "public_metrics": {
+                    "followers_count": 777,
+                    "following_count": 128,
+                    "tweet_count": 1865,
+                    "listed_count": 12,
+                    "like_count": 2,
+                    "media_count": 554
+                }
+            },
+            {
+                "username": "PointReyesLight",
+                "name": "Point Reyes Light",
+                "id": "472472477",
+                "public_metrics": {
+                    "followers_count": 489,
+                    "following_count": 82,
+                    "tweet_count": 35,
+                    "listed_count": 15,
+                    "like_count": 0,
+                    "media_count": 0
+                }
+            },
+            {
+                "username": "JaxPatriot",
+                "name": "Jacksonville Patriot",
+                "id": "479002002",
+                "public_metrics": {
+                    "followers_count": 94,
+                    "following_count": 0,
+                    "tweet_count": 350,
+                    "listed_count": 8,
+                    "like_count": 0,
+                    "media_count": 0
+                }
+            },
+            {
+                "username": "PurcellRegister",
+                "name": "The Purcell Register",
+                "id": "44991444",
+                "public_metrics": {
+                    "followers_count": 2177,
+                    "following_count": 789,
+                    "tweet_count": 7421,
+                    "listed_count": 45,
+                    "like_count": 92,
+                    "media_count": 65
+                }
+            },
+            {
+                "username": "PutnamCourier",
+                "name": "Putnam Courier",
+                "id": "141197238",
+                "public_metrics": {
+                    "followers_count": 1654,
+                    "following_count": 449,
+                    "tweet_count": 3374,
+                    "listed_count": 22,
+                    "like_count": 35,
+                    "media_count": 261
+                }
+            },
+            {
+                "username": "PVPeninsulaNews",
+                "name": "PV Peninsula News",
+                "id": "362119079",
+                "public_metrics": {
+                    "followers_count": 2165,
+                    "following_count": 255,
+                    "tweet_count": 1694,
+                    "listed_count": 34,
+                    "like_count": 24,
+                    "media_count": 150
+                }
+            },
+            {
+                "username": "pvtimes",
+                "name": "Pahrump Valley Times",
+                "id": "216871585",
+                "public_metrics": {
+                    "followers_count": 2073,
+                    "following_count": 369,
+                    "tweet_count": 7849,
+                    "listed_count": 61,
+                    "like_count": 4,
+                    "media_count": 123
+                }
+            },
+            {
+                "username": "PVTrib",
+                "name": "Prescott Valley Tribune",
+                "id": "556388515",
+                "public_metrics": {
+                    "followers_count": 1685,
+                    "following_count": 85,
+                    "tweet_count": 6922,
+                    "listed_count": 47,
+                    "like_count": 13,
+                    "media_count": 87
+                }
+            },
+            {
+                "username": "pvvt",
+                "name": "PaloVerdeValleyTimes",
+                "id": "289511993",
+                "public_metrics": {
+                    "followers_count": 420,
+                    "following_count": 50,
+                    "tweet_count": 2422,
+                    "listed_count": 25,
+                    "like_count": 0,
+                    "media_count": 1
+                }
+            },
+            {
+                "username": "QueensGazette",
+                "name": "Queens Gazette",
+                "id": "318550411",
+                "public_metrics": {
+                    "followers_count": 2684,
+                    "following_count": 39,
+                    "tweet_count": 1260,
+                    "listed_count": 88,
+                    "like_count": 47,
+                    "media_count": 1201
+                }
+            },
+            {
+                "username": "QSaltLake",
+                "name": "QSaltLake Magazine",
+                "id": "19958805",
+                "public_metrics": {
+                    "followers_count": 2424,
+                    "following_count": 645,
+                    "tweet_count": 6543,
+                    "listed_count": 88,
+                    "like_count": 183,
+                    "media_count": 2678
+                }
+            },
+            {
+                "username": "qamagnews",
+                "name": "Queen Anne & Magnolia News",
+                "id": "48864323",
+                "public_metrics": {
+                    "followers_count": 1851,
+                    "following_count": 577,
+                    "tweet_count": 6805,
+                    "listed_count": 57,
+                    "like_count": 103,
+                    "media_count": 2839
+                }
+            },
+            {
+                "username": "QueensTrib",
+                "name": "Queens Tribune",
+                "id": "818040343",
+                "public_metrics": {
+                    "followers_count": 6023,
+                    "following_count": 1241,
+                    "tweet_count": 4690,
+                    "listed_count": 189,
+                    "like_count": 156,
+                    "media_count": 1223
+                }
+            },
+            {
+                "username": "QuePasaMedia",
+                "name": "QuePasa MediaNetwork",
+                "id": "168790068",
+                "public_metrics": {
+                    "followers_count": 2030,
+                    "following_count": 1211,
+                    "tweet_count": 100371,
+                    "listed_count": 55,
+                    "like_count": 261,
+                    "media_count": 1628
+                }
+            },
+            {
+                "username": "RainsCounty",
+                "name": "Rains County Leader",
+                "id": "67396553",
+                "public_metrics": {
+                    "followers_count": 54,
+                    "following_count": 12,
+                    "tweet_count": 222,
+                    "listed_count": 4,
+                    "like_count": 0,
+                    "media_count": 53
+                }
+            },
+            {
+                "username": "RamonaSentinel",
+                "name": "Ramona Sentinel",
+                "id": "338669725",
+                "public_metrics": {
+                    "followers_count": 612,
+                    "following_count": 733,
+                    "tweet_count": 6494,
+                    "listed_count": 22,
+                    "like_count": 0,
+                    "media_count": 1
+                }
+            },
+            {
+                "username": "RandomLengths",
+                "name": "Random Lengths News",
+                "id": "383114423",
+                "public_metrics": {
+                    "followers_count": 963,
+                    "following_count": 603,
+                    "tweet_count": 4517,
+                    "listed_count": 33,
+                    "like_count": 4199,
+                    "media_count": 482
+                }
+            },
+            {
+                "username": "RCReader",
+                "name": "River Cities' Reader",
+                "id": "17749447",
+                "public_metrics": {
+                    "followers_count": 2819,
+                    "following_count": 106,
+                    "tweet_count": 1901,
+                    "listed_count": 74,
+                    "like_count": 138,
+                    "media_count": 844
+                }
+            },
+            {
+                "username": "RecordBee",
+                "name": "Lake County Record-Bee",
+                "id": "19680385",
+                "public_metrics": {
+                    "followers_count": 3310,
+                    "following_count": 398,
+                    "tweet_count": 39655,
+                    "listed_count": 105,
+                    "like_count": 282,
+                    "media_count": 1420
+                }
+            },
+            {
+                "username": "RecordCourierNV",
+                "name": "The Record-Courier",
+                "id": "46447972",
+                "public_metrics": {
+                    "followers_count": 3314,
+                    "following_count": 100,
+                    "tweet_count": 13803,
+                    "listed_count": 85,
+                    "like_count": 2029,
+                    "media_count": 1432
+                }
+            },
+            {
+                "username": "Recorder_news",
+                "name": "Amsterdam Recorder",
+                "id": "35878291",
+                "public_metrics": {
+                    "followers_count": 1383,
+                    "following_count": 21,
+                    "tweet_count": 12361,
+                    "listed_count": 55,
+                    "like_count": 2,
+                    "media_count": 543
+                }
+            },
+            {
+                "username": "recorderonline",
+                "name": "Porterville Recorder",
+                "id": "22118487",
+                "public_metrics": {
+                    "followers_count": 4041,
+                    "following_count": 761,
+                    "tweet_count": 16837,
+                    "listed_count": 80,
+                    "like_count": 522,
+                    "media_count": 86
+                }
+            },
+            {
+                "username": "RecordGazette",
+                "name": "Record Gazette",
+                "id": "1511805104",
+                "public_metrics": {
+                    "followers_count": 585,
+                    "following_count": 4,
+                    "tweet_count": 3788,
+                    "listed_count": 21,
+                    "like_count": 19,
+                    "media_count": 17
+                }
+            },
+            {
+                "username": "RecordPub",
+                "name": "Record-Courier",
+                "id": "17869846",
+                "public_metrics": {
+                    "followers_count": 6465,
+                    "following_count": 780,
+                    "tweet_count": 35373,
+                    "listed_count": 124,
+                    "like_count": 212,
+                    "media_count": 1214
+                }
+            },
+            {
+                "username": "redbluffnews",
+                "name": "Red Bluff Daily News",
+                "id": "68460673",
+                "public_metrics": {
+                    "followers_count": 2951,
+                    "following_count": 146,
+                    "tweet_count": 41327,
+                    "listed_count": 117,
+                    "like_count": 15,
+                    "media_count": 2433
+                }
+            },
+            {
+                "username": "redeyechicago",
+                "name": "Chicago Things to Do",
+                "id": "16381558",
+                "public_metrics": {
+                    "followers_count": 399578,
+                    "following_count": 9762,
+                    "tweet_count": 126453,
+                    "listed_count": 3644,
+                    "like_count": 14774,
+                    "media_count": 33830
+                }
+            },
+            {
+                "username": "sedonanews",
+                "name": "Sedona Red Rock News",
+                "id": "122561327",
+                "public_metrics": {
+                    "followers_count": 1856,
+                    "following_count": 147,
+                    "tweet_count": 3335,
+                    "listed_count": 54,
+                    "like_count": 32,
+                    "media_count": 607
+                }
+            },
+            {
+                "username": "ReflejosNews",
+                "name": "Reflejos Newspaper",
+                "id": "177318459",
+                "public_metrics": {
+                    "followers_count": 653,
+                    "following_count": 0,
+                    "tweet_count": 2985,
+                    "listed_count": 35,
+                    "like_count": 0,
+                    "media_count": 27
+                }
+            },
+            {
+                "username": "MVRN",
+                "name": "MV Register-News",
+                "id": "36528086",
+                "public_metrics": {
+                    "followers_count": 1034,
+                    "following_count": 31,
+                    "tweet_count": 15262,
+                    "listed_count": 56,
+                    "like_count": 0,
+                    "media_count": 9
+                }
+            },
+            {
+                "username": "theeatonrh",
+                "name": "The Register-Herald",
+                "id": "263349357",
+                "public_metrics": {
+                    "followers_count": 1122,
+                    "following_count": 451,
+                    "tweet_count": 4813,
+                    "listed_count": 34,
+                    "like_count": 218,
+                    "media_count": 22
+                }
+            },
+            {
+                "username": "RentonReporter",
+                "name": "Renton Reporter",
+                "id": "53173353",
+                "public_metrics": {
+                    "followers_count": 4545,
+                    "following_count": 466,
+                    "tweet_count": 3996,
+                    "listed_count": 164,
+                    "like_count": 85,
+                    "media_count": 239
+                }
+            },
+            {
+                "username": "R_T_news",
+                "name": "Reporter-Times",
+                "id": "1854697670",
+                "public_metrics": {
+                    "followers_count": 875,
+                    "following_count": 534,
+                    "tweet_count": 17447,
+                    "listed_count": 23,
+                    "like_count": 40,
+                    "media_count": 197
+                }
+            },
+            {
+                "username": "lebanonreporter",
+                "name": "The Lebanon Reporter",
+                "id": "66487356",
+                "public_metrics": {
+                    "followers_count": 4397,
+                    "following_count": 106,
+                    "tweet_count": 14617,
+                    "listed_count": 98,
+                    "like_count": 227,
+                    "media_count": 2974
+                }
+            },
+            {
+                "username": "ReporterFarmer",
+                "name": "Reporter & Farmer",
+                "id": "2830335926",
+                "public_metrics": {
+                    "followers_count": 81,
+                    "following_count": 112,
+                    "tweet_count": 132,
+                    "listed_count": 2,
+                    "like_count": 82,
+                    "media_count": 27
+                }
+            },
+            {
+                "username": "republictimes",
+                "name": "Republic-Times",
+                "id": "100800817",
+                "public_metrics": {
+                    "followers_count": 4191,
+                    "following_count": 515,
+                    "tweet_count": 22815,
+                    "listed_count": 70,
+                    "like_count": 18470,
+                    "media_count": 1094
+                }
+            },
+            {
+                "username": "RevereJournal",
+                "name": "Revere Journal",
+                "id": "70521534",
+                "public_metrics": {
+                    "followers_count": 3241,
+                    "following_count": 24,
+                    "tweet_count": 12789,
+                    "listed_count": 50,
+                    "like_count": 28,
+                    "media_count": 194
+                }
+            },
+            {
+                "username": "TheReviewOnline",
+                "name": "The Review",
+                "id": "58791130",
+                "public_metrics": {
+                    "followers_count": 712,
+                    "following_count": 17,
+                    "tweet_count": 11269,
+                    "listed_count": 37,
+                    "like_count": 2,
+                    "media_count": 468
+                }
+            },
+            {
+                "username": "Fostoria_RT",
+                "name": "Review Times",
+                "id": "1969244588",
+                "public_metrics": {
+                    "followers_count": 698,
+                    "following_count": 165,
+                    "tweet_count": 8962,
+                    "listed_count": 19,
+                    "like_count": 6,
+                    "media_count": 25
+                }
+            },
+            {
+                "username": "RhinoTimesGso",
+                "name": "Rhino Times",
+                "id": "24937222",
+                "public_metrics": {
+                    "followers_count": 1438,
+                    "following_count": 360,
+                    "tweet_count": 7401,
+                    "listed_count": 65,
+                    "like_count": 30,
+                    "media_count": 59
+                }
+            },
+            {
+                "username": "richmondmonews",
+                "name": "Richmond Daily News",
+                "id": "86960390",
+                "public_metrics": {
+                    "followers_count": 174,
+                    "following_count": 0,
+                    "tweet_count": 6074,
+                    "listed_count": 12,
+                    "like_count": 0,
+                    "media_count": 8
+                }
+            },
+            {
+                "username": "NWoodsRiverNews",
+                "name": "NorthwoodsRiverNews",
+                "id": "1284062263",
+                "public_metrics": {
+                    "followers_count": 549,
+                    "following_count": 64,
+                    "tweet_count": 8366,
+                    "listed_count": 13,
+                    "like_count": 0,
+                    "media_count": 15
+                }
+            },
+            {
+                "username": "Roanecountynews",
+                "name": "Roane County News",
+                "id": "1932714150",
+                "public_metrics": {
+                    "followers_count": 713,
+                    "following_count": 338,
+                    "tweet_count": 637,
+                    "listed_count": 9,
+                    "like_count": 320,
+                    "media_count": 79
+                }
+            },
+            {
+                "username": "RCNewsherald",
+                "name": "R-C News Herald",
+                "id": "19350375",
+                "public_metrics": {
+                    "followers_count": 238,
+                    "following_count": 0,
+                    "tweet_count": 6043,
+                    "listed_count": 11,
+                    "like_count": 0,
+                    "media_count": 0
+                }
+            },
+            {
+                "username": "TheWaveNews",
+                "name": "The Wave",
+                "id": "1379000759510044675",
+                "public_metrics": {
+                    "followers_count": 335,
+                    "following_count": 84,
+                    "tweet_count": 40,
+                    "listed_count": 7,
+                    "like_count": 25,
+                    "media_count": 0
+                }
+            },
+            {
+                "username": "rockdalecitizen",
+                "name": "The Rockdale Citizen",
+                "id": "231883981",
+                "public_metrics": {
+                    "followers_count": 3591,
+                    "following_count": 603,
+                    "tweet_count": 45101,
+                    "listed_count": 70,
+                    "like_count": 47,
+                    "media_count": 10607
+                }
+            },
+            {
+                "username": "Rockland_News",
+                "name": "RocklandCountyTimes",
+                "id": "386163434",
+                "public_metrics": {
+                    "followers_count": 4056,
+                    "following_count": 1456,
+                    "tweet_count": 5413,
+                    "listed_count": 52,
+                    "like_count": 49,
+                    "media_count": 17
+                }
+            },
+            {
+                "username": "RoslynNews",
+                "name": "Roslyn News",
+                "id": "2221841437",
+                "public_metrics": {
+                    "followers_count": 639,
+                    "following_count": 134,
+                    "tweet_count": 3094,
+                    "listed_count": 15,
+                    "like_count": 2,
+                    "media_count": 1014
+                }
+            },
+            {
+                "username": "rrdailyherald",
+                "name": "The Daily Herald",
+                "id": "24293140",
+                "public_metrics": {
+                    "followers_count": 1713,
+                    "following_count": 1194,
+                    "tweet_count": 13144,
+                    "listed_count": 61,
+                    "like_count": 37,
+                    "media_count": 220
+                }
+            },
+            {
+                "username": "RappRecord",
+                "name": "Rappahannock Record",
+                "id": "29212306",
+                "public_metrics": {
+                    "followers_count": 1428,
+                    "following_count": 33,
+                    "tweet_count": 2986,
+                    "listed_count": 45,
+                    "like_count": 69,
+                    "media_count": 981
+                }
+            },
+            {
+                "username": "RSBNetwork",
+                "name": "RSBN \ud83c\uddfa\ud83c\uddf8",
+                "id": "4041824789",
+                "public_metrics": {
+                    "followers_count": 1141363,
+                    "following_count": 789,
+                    "tweet_count": 38798,
+                    "listed_count": 2952,
+                    "like_count": 11568,
+                    "media_count": 12095
+                }
+            },
+            {
+                "username": "Rush_Republican",
+                "name": "Rushville Republican",
+                "id": "211594839",
+                "public_metrics": {
+                    "followers_count": 711,
+                    "following_count": 21,
+                    "tweet_count": 3215,
+                    "listed_count": 25,
+                    "like_count": 0,
+                    "media_count": 908
+                }
+            },
+            {
+                "username": "sabethaherald",
+                "name": "The Sabetha Herald",
+                "id": "1692048050",
+                "public_metrics": {
+                    "followers_count": 546,
+                    "following_count": 76,
+                    "tweet_count": 4104,
+                    "listed_count": 11,
+                    "like_count": 368,
+                    "media_count": 1045
+                }
+            },
+            {
+                "username": "SacGazette",
+                "name": "Sacramento Gazette",
+                "id": "69212542",
+                "public_metrics": {
+                    "followers_count": 2101,
+                    "following_count": 2099,
+                    "tweet_count": 1823,
+                    "listed_count": 64,
+                    "like_count": 521,
+                    "media_count": 260
+                }
+            },
+            {
+                "username": "SacObserver",
+                "name": "Sacramento OBSERVER",
+                "id": "9311472",
+                "public_metrics": {
+                    "followers_count": 3190,
+                    "following_count": 752,
+                    "tweet_count": 8935,
+                    "listed_count": 111,
+                    "like_count": 910,
+                    "media_count": 2483
+                }
+            },
+            {
+                "username": "sagharboronline",
+                "name": "Sag Harbor Express",
+                "id": "57746352",
+                "public_metrics": {
+                    "followers_count": 5018,
+                    "following_count": 200,
+                    "tweet_count": 3278,
+                    "listed_count": 100,
+                    "like_count": 4,
+                    "media_count": 15
+                }
+            },
+            {
+                "username": "SAMessenger",
+                "name": "Saint Albans Messenger",
+                "id": "359938102",
+                "public_metrics": {
+                    "followers_count": 2829,
+                    "following_count": 342,
+                    "tweet_count": 11877,
+                    "listed_count": 85,
+                    "like_count": 710,
+                    "media_count": 883
+                }
+            },
+            {
+                "username": "SampanNewspaper",
+                "name": "Sampan Newspaper \u8222\u8228",
+                "id": "372464819",
+                "public_metrics": {
+                    "followers_count": 1268,
+                    "following_count": 1982,
+                    "tweet_count": 12422,
+                    "listed_count": 48,
+                    "like_count": 4612,
+                    "media_count": 503
+                }
+            },
+            {
+                "username": "hollisternews",
+                "name": "Hollister Free Lance",
+                "id": "48625268",
+                "public_metrics": {
+                    "followers_count": 1052,
+                    "following_count": 287,
+                    "tweet_count": 3080,
+                    "listed_count": 33,
+                    "like_count": 14,
+                    "media_count": 33
+                }
+            },
+            {
+                "username": "sddowntownnews",
+                "name": "Downtown News",
+                "id": "262790137",
+                "public_metrics": {
+                    "followers_count": 1481,
+                    "following_count": 340,
+                    "tweet_count": 3995,
+                    "listed_count": 56,
+                    "like_count": 168,
+                    "media_count": 899
+                }
+            }
+        ],
+        "errors": [
+            {
+                "value": "thepostsouth",
+                "detail": "Could not find user with usernames: [thepostsouth].",
+                "title": "Not Found Error",
+                "resource_type": "user",
+                "parameter": "usernames",
+                "resource_id": "thepostsouth",
+                "type": "https://api.twitter.com/2/problems/resource-not-found"
+            },
+            {
+                "value": "powdersprgsnews",
+                "detail": "Could not find user with usernames: [powdersprgsnews].",
+                "title": "Not Found Error",
+                "resource_type": "user",
+                "parameter": "usernames",
+                "resource_id": "powdersprgsnews",
+                "type": "https://api.twitter.com/2/problems/resource-not-found"
+            },
+            {
+                "parameter": "usernames",
+                "resource_id": "prensahispanaaz",
+                "value": "prensahispanaaz",
+                "detail": "User has been suspended: [prensahispanaaz].",
+                "title": "Forbidden",
+                "resource_type": "user",
+                "type": "https://api.twitter.com/2/problems/resource-not-found"
+            },
+            {
+                "parameter": "usernames",
+                "resource_id": "rawdailytimes",
+                "value": "rawdailytimes",
+                "detail": "User has been suspended: [rawdailytimes].",
+                "title": "Forbidden",
+                "resource_type": "user",
+                "type": "https://api.twitter.com/2/problems/resource-not-found"
+            },
+            {
+                "value": "raytowneagle",
+                "detail": "Could not find user with usernames: [raytowneagle].",
+                "title": "Not Found Error",
+                "resource_type": "user",
+                "parameter": "usernames",
+                "resource_id": "raytowneagle",
+                "type": "https://api.twitter.com/2/problems/resource-not-found"
+            },
+            {
+                "value": "regpaj",
+                "detail": "Could not find user with usernames: [regpaj].",
+                "title": "Not Found Error",
+                "resource_type": "user",
+                "parameter": "usernames",
+                "resource_id": "regpaj",
+                "type": "https://api.twitter.com/2/problems/resource-not-found"
+            },
+            {
+                "parameter": "usernames",
+                "resource_id": "restonconnect",
+                "value": "restonconnect",
+                "detail": "User has been suspended: [restonconnect].",
+                "title": "Forbidden",
+                "resource_type": "user",
+                "type": "https://api.twitter.com/2/problems/resource-not-found"
+            },
+            {
+                "parameter": "usernames",
+                "resource_id": "uvsj",
+                "value": "uvsj",
+                "detail": "User has been suspended: [uvsj].",
+                "title": "Forbidden",
+                "resource_type": "user",
+                "type": "https://api.twitter.com/2/problems/resource-not-found"
+            },
+            {
+                "value": "riverfallsj",
+                "detail": "Could not find user with usernames: [riverfallsj].",
+                "title": "Not Found Error",
+                "resource_type": "user",
+                "parameter": "usernames",
+                "resource_id": "riverfallsj",
+                "type": "https://api.twitter.com/2/problems/resource-not-found"
+            },
+            {
+                "parameter": "usernames",
+                "resource_id": "robdailynews",
+                "value": "robdailynews",
+                "detail": "User has been suspended: [robdailynews].",
+                "title": "Forbidden",
+                "resource_type": "user",
+                "type": "https://api.twitter.com/2/problems/resource-not-found"
+            },
+            {
+                "value": "rrtoday",
+                "detail": "Could not find user with usernames: [rrtoday].",
+                "title": "Not Found Error",
+                "resource_type": "user",
+                "parameter": "usernames",
+                "resource_id": "rrtoday",
+                "type": "https://api.twitter.com/2/problems/resource-not-found"
+            },
+            {
+                "value": "saladovoice",
+                "detail": "Could not find user with usernames: [saladovoice].",
+                "title": "Not Found Error",
+                "resource_type": "user",
+                "parameter": "usernames",
+                "resource_id": "saladovoice",
+                "type": "https://api.twitter.com/2/problems/resource-not-found"
+            },
+            {
+                "value": "salamancapress",
+                "detail": "Could not find user with usernames: [salamancapress].",
+                "title": "Not Found Error",
+                "resource_type": "user",
+                "parameter": "usernames",
+                "resource_id": "salamancapress",
+                "type": "https://api.twitter.com/2/problems/resource-not-found"
+            },
+            {
+                "value": "salemweekly",
+                "detail": "Could not find user with usernames: [salemweekly].",
+                "title": "Not Found Error",
+                "resource_type": "user",
+                "parameter": "usernames",
+                "resource_id": "salemweekly",
+                "type": "https://api.twitter.com/2/problems/resource-not-found"
+            }
+        ]
+    }
+}

@@ -1,8 +1,8 @@
 name: "Top 100 Daily Refresh"
 
 on:
-#   schedule:
-#     - cron: "0 15 * * *" 
+  schedule:
+    - cron: "0 15 * * *" 
   workflow_dispatch:
 
 jobs:

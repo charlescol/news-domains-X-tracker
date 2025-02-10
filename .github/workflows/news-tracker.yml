@@ -39,7 +39,6 @@ jobs:
           X_BEARER_TOKEN_1: ${{ secrets.X_BEARER_TOKEN_2 }}
           X_BEARER_TOKEN_2: ${{ secrets.X_BEARER_TOKEN_3 }}
           X_BEARER_TOKEN_3: ${{ secrets.X_BEARER_TOKEN_4 }}
-          X_BEARER_TOKEN_4: ${{ secrets.X_BEARER_TOKEN_1 }} # Temporary
         run: |
           python src/news_tracker_run.py
 

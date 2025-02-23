@@ -1,0 +1,1339 @@
+{
+    "timestamp": "20250223_150640",
+    "response": {
+        "data": [
+            {
+                "public_metrics": {
+                    "followers_count": 63813394,
+                    "following_count": 116,
+                    "tweet_count": 82849,
+                    "listed_count": 184938,
+                    "like_count": 23,
+                    "media_count": 17289
+                },
+                "id": "428333",
+                "name": "CNN Breaking News",
+                "username": "cnnbrk"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 63253733,
+                    "following_count": 1047,
+                    "tweet_count": 423885,
+                    "listed_count": 154755,
+                    "like_count": 1343,
+                    "media_count": 190558
+                },
+                "id": "759251",
+                "name": "CNN",
+                "username": "CNN"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 57203529,
+                    "following_count": 404,
+                    "tweet_count": 149988,
+                    "listed_count": 60045,
+                    "like_count": 4258,
+                    "media_count": 58001
+                },
+                "id": "2557521",
+                "name": "ESPN",
+                "username": "espn"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 55246513,
+                    "following_count": 857,
+                    "tweet_count": 557875,
+                    "listed_count": 208455,
+                    "like_count": 18514,
+                    "media_count": 72409
+                },
+                "id": "807095",
+                "name": "The New York Times",
+                "username": "nytimes"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 28904968,
+                    "following_count": 183,
+                    "tweet_count": 72124,
+                    "listed_count": 60607,
+                    "like_count": 7336,
+                    "media_count": 8109
+                },
+                "id": "17471979",
+                "name": "National Geographic",
+                "username": "NatGeo"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 27110330,
+                    "following_count": 155,
+                    "tweet_count": 409986,
+                    "listed_count": 118784,
+                    "like_count": 155,
+                    "media_count": 84819
+                },
+                "id": "5988062",
+                "name": "The Economist",
+                "username": "TheEconomist"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 25796919,
+                    "following_count": 263,
+                    "tweet_count": 649164,
+                    "listed_count": 76994,
+                    "like_count": 2,
+                    "media_count": 160377
+                },
+                "id": "1367531",
+                "name": "Fox News",
+                "username": "FoxNews"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 25586898,
+                    "following_count": 1201,
+                    "tweet_count": 1227694,
+                    "listed_count": 133857,
+                    "like_count": 690,
+                    "media_count": 965341
+                },
+                "id": "1652541",
+                "name": "Reuters",
+                "username": "Reuters"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 20757571,
+                    "following_count": 4684,
+                    "tweet_count": 620203,
+                    "listed_count": 62635,
+                    "like_count": 10145,
+                    "media_count": 348427
+                },
+                "id": "91478624",
+                "name": "Forbes",
+                "username": "Forbes"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 20723899,
+                    "following_count": 1073,
+                    "tweet_count": 464154,
+                    "listed_count": 125735,
+                    "like_count": 1083,
+                    "media_count": 50861
+                },
+                "id": "3108351",
+                "name": "The Wall Street Journal",
+                "username": "WSJ"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 19877443,
+                    "following_count": 1643,
+                    "tweet_count": 509404,
+                    "listed_count": 104812,
+                    "like_count": 3806,
+                    "media_count": 21171
+                },
+                "id": "2467791",
+                "name": "The Washington Post",
+                "username": "washingtonpost"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 19858489,
+                    "following_count": 954,
+                    "tweet_count": 183582,
+                    "listed_count": 22354,
+                    "like_count": 892,
+                    "media_count": 130295
+                },
+                "id": "890891",
+                "name": "Bleacher Report",
+                "username": "BleacherReport"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 19216438,
+                    "following_count": 472,
+                    "tweet_count": 433141,
+                    "listed_count": 101896,
+                    "like_count": 571,
+                    "media_count": 31301
+                },
+                "id": "14293310",
+                "name": "TIME",
+                "username": "TIME"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 17812611,
+                    "following_count": 435,
+                    "tweet_count": 468341,
+                    "listed_count": 66353,
+                    "like_count": 60,
+                    "media_count": 197367
+                },
+                "id": "28785486",
+                "name": "ABC News",
+                "username": "ABC"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 15814661,
+                    "following_count": 6303,
+                    "tweet_count": 383676,
+                    "listed_count": 102852,
+                    "like_count": 4334,
+                    "media_count": 15175
+                },
+                "id": "51241574",
+                "name": "The Associated Press",
+                "username": "AP"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 15325640,
+                    "following_count": 63,
+                    "tweet_count": 796197,
+                    "listed_count": 18875,
+                    "like_count": 18,
+                    "media_count": 313532
+                },
+                "id": "8802752",
+                "name": "g1",
+                "username": "g1"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 15251681,
+                    "following_count": 443,
+                    "tweet_count": 195985,
+                    "listed_count": 21733,
+                    "like_count": 5009,
+                    "media_count": 13817
+                },
+                "id": "136361303",
+                "name": "Vogue Magazine",
+                "username": "voguemagazine"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 15004113,
+                    "following_count": 359,
+                    "tweet_count": 301111,
+                    "listed_count": 50002,
+                    "like_count": 122,
+                    "media_count": 113498
+                },
+                "id": "2097571",
+                "name": "CNN International",
+                "username": "cnni"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 14747243,
+                    "following_count": 152,
+                    "tweet_count": 1003869,
+                    "listed_count": 13214,
+                    "like_count": 15,
+                    "media_count": 454246
+                },
+                "id": "134758540",
+                "name": "The Times Of India",
+                "username": "timesofindia"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 11621029,
+                    "following_count": 101555,
+                    "tweet_count": 352305,
+                    "listed_count": 31080,
+                    "like_count": 28366,
+                    "media_count": 111714
+                },
+                "id": "2883841",
+                "name": "E! News",
+                "username": "enews"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 11273019,
+                    "following_count": 7,
+                    "tweet_count": 109725,
+                    "listed_count": 59364,
+                    "like_count": 3,
+                    "media_count": 60734
+                },
+                "id": "14075928",
+                "name": "The Onion",
+                "username": "TheOnion"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 11102709,
+                    "following_count": 385,
+                    "tweet_count": 485728,
+                    "listed_count": 36485,
+                    "like_count": 1613,
+                    "media_count": 34388
+                },
+                "id": "24744541",
+                "name": "Le Monde",
+                "username": "lemondefr"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 10710520,
+                    "following_count": 1000,
+                    "tweet_count": 861585,
+                    "listed_count": 68953,
+                    "like_count": 128,
+                    "media_count": 24712
+                },
+                "id": "87818409",
+                "name": "The Guardian",
+                "username": "guardian"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 10655966,
+                    "following_count": 5329,
+                    "tweet_count": 670273,
+                    "listed_count": 75099,
+                    "like_count": 1070,
+                    "media_count": 89313
+                },
+                "id": "14511951",
+                "name": "HuffPost",
+                "username": "HuffPost"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 10306921,
+                    "following_count": 465,
+                    "tweet_count": 276087,
+                    "listed_count": 102294,
+                    "like_count": 7532,
+                    "media_count": 50972
+                },
+                "id": "816653",
+                "name": "TechCrunch",
+                "username": "TechCrunch"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 9824859,
+                    "following_count": 442,
+                    "tweet_count": 179520,
+                    "listed_count": 81499,
+                    "like_count": 6987,
+                    "media_count": 38339
+                },
+                "id": "1344951",
+                "name": "WIRED",
+                "username": "WIRED"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 9641353,
+                    "following_count": 93,
+                    "tweet_count": 1141857,
+                    "listed_count": 70392,
+                    "like_count": 4356,
+                    "media_count": 317476
+                },
+                "id": "34713362",
+                "name": "Bloomberg",
+                "username": "business"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 9600641,
+                    "following_count": 1,
+                    "tweet_count": 443325,
+                    "listed_count": 14974,
+                    "like_count": 204,
+                    "media_count": 169888
+                },
+                "id": "520653311",
+                "name": "Aristegui Noticias",
+                "username": "AristeguiOnline"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 9401627,
+                    "following_count": 1325,
+                    "tweet_count": 420933,
+                    "listed_count": 51635,
+                    "like_count": 718,
+                    "media_count": 96203
+                },
+                "id": "14173315",
+                "name": "NBC News",
+                "username": "NBCNews"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 9273893,
+                    "following_count": 536,
+                    "tweet_count": 108832,
+                    "listed_count": 78204,
+                    "like_count": 6,
+                    "media_count": 658
+                },
+                "id": "6017542",
+                "name": "Breaking News",
+                "username": "BreakingNews"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 9110545,
+                    "following_count": 24155,
+                    "tweet_count": 820706,
+                    "listed_count": 15957,
+                    "like_count": 12878,
+                    "media_count": 463154
+                },
+                "id": "9633802",
+                "name": "EL TIEMPO",
+                "username": "ELTIEMPO"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 9013336,
+                    "following_count": 608,
+                    "tweet_count": 58220,
+                    "listed_count": 20494,
+                    "like_count": 9106,
+                    "media_count": 15685
+                },
+                "id": "17842366",
+                "name": "Discovery",
+                "username": "Discovery"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 8979798,
+                    "following_count": 623,
+                    "tweet_count": 434225,
+                    "listed_count": 56091,
+                    "like_count": 375,
+                    "media_count": 197965
+                },
+                "id": "15012486",
+                "name": "CBS News",
+                "username": "CBSNews"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 8921160,
+                    "following_count": 247,
+                    "tweet_count": 382790,
+                    "listed_count": 57009,
+                    "like_count": 17670,
+                    "media_count": 152726
+                },
+                "id": "4970411",
+                "name": "Al Jazeera English",
+                "username": "AJEnglish"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 8912987,
+                    "following_count": 2542,
+                    "tweet_count": 556655,
+                    "listed_count": 106599,
+                    "like_count": 2050,
+                    "media_count": 300229
+                },
+                "id": "972651",
+                "name": "Mashable",
+                "username": "mashable"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 8878348,
+                    "following_count": 163101,
+                    "tweet_count": 788413,
+                    "listed_count": 13848,
+                    "like_count": 221,
+                    "media_count": 129113
+                },
+                "id": "14594813",
+                "name": "Folha de S.Paulo",
+                "username": "folha"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 8837612,
+                    "following_count": 855,
+                    "tweet_count": 837781,
+                    "listed_count": 56074,
+                    "like_count": 2002,
+                    "media_count": 82096
+                },
+                "id": "7996082",
+                "name": "EL PA\u00cdS",
+                "username": "el_pais"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 8549950,
+                    "following_count": 396,
+                    "tweet_count": 178205,
+                    "listed_count": 58645,
+                    "like_count": 1863,
+                    "media_count": 46859
+                },
+                "id": "14677919",
+                "name": "The New Yorker",
+                "username": "NewYorker"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 8391137,
+                    "following_count": 934,
+                    "tweet_count": 471196,
+                    "listed_count": 19489,
+                    "like_count": 1382,
+                    "media_count": 59533
+                },
+                "id": "16331010",
+                "name": "TMZ",
+                "username": "TMZ"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 8344992,
+                    "following_count": 58662,
+                    "tweet_count": 244199,
+                    "listed_count": 63360,
+                    "like_count": 2495,
+                    "media_count": 11291
+                },
+                "id": "5392522",
+                "name": "NPR",
+                "username": "NPR"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 8317319,
+                    "following_count": 200,
+                    "tweet_count": 616980,
+                    "listed_count": 8247,
+                    "like_count": 236,
+                    "media_count": 49512
+                },
+                "id": "20751449",
+                "name": "The Hindu",
+                "username": "the_hindu"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 8078877,
+                    "following_count": 13927,
+                    "tweet_count": 1445613,
+                    "listed_count": 24831,
+                    "like_count": 30436,
+                    "media_count": 316703
+                },
+                "id": "16676396",
+                "name": "El Universal",
+                "username": "El_Universal_Mx"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 7564185,
+                    "following_count": 1581,
+                    "tweet_count": 509795,
+                    "listed_count": 28949,
+                    "like_count": 4533,
+                    "media_count": 127113
+                },
+                "id": "25589776",
+                "name": "People",
+                "username": "people"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 7504434,
+                    "following_count": 341,
+                    "tweet_count": 251440,
+                    "listed_count": 13329,
+                    "like_count": 473,
+                    "media_count": 44070
+                },
+                "id": "9317502",
+                "name": "Estad\u00e3o \ud83d\uddde\ufe0f",
+                "username": "Estadao"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 7289065,
+                    "following_count": 7033,
+                    "tweet_count": 613097,
+                    "listed_count": 13006,
+                    "like_count": 114,
+                    "media_count": 225427
+                },
+                "id": "54341363",
+                "name": "Jornal O Globo",
+                "username": "JornalOGlobo"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 6479385,
+                    "following_count": 752,
+                    "tweet_count": 477063,
+                    "listed_count": 5342,
+                    "like_count": 1238,
+                    "media_count": 71296
+                },
+                "id": "14697575",
+                "name": "News24 \ud83c\uddff\ud83c\udde6",
+                "username": "News24"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 6289441,
+                    "following_count": 113,
+                    "tweet_count": 1347844,
+                    "listed_count": 7071,
+                    "like_count": 4439,
+                    "media_count": 442763
+                },
+                "id": "19897138",
+                "name": "IndiaToday",
+                "username": "IndiaToday"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 6081314,
+                    "following_count": 528,
+                    "tweet_count": 235627,
+                    "listed_count": 33102,
+                    "like_count": 1824,
+                    "media_count": 106326
+                },
+                "id": "14780915",
+                "name": "Rolling Stone",
+                "username": "RollingStone"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 6081194,
+                    "following_count": 11,
+                    "tweet_count": 1254501,
+                    "listed_count": 15466,
+                    "like_count": 24,
+                    "media_count": 745759
+                },
+                "id": "24969337",
+                "name": "Milenio",
+                "username": "Milenio"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 6056492,
+                    "following_count": 1032,
+                    "tweet_count": 342147,
+                    "listed_count": 47468,
+                    "like_count": 47,
+                    "media_count": 57411
+                },
+                "id": "18949452",
+                "name": "Financial Times",
+                "username": "FT"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 5824994,
+                    "following_count": 200,
+                    "tweet_count": 133499,
+                    "listed_count": 48612,
+                    "like_count": 495,
+                    "media_count": 18701
+                },
+                "id": "14800270",
+                "name": "Harvard Business Review",
+                "username": "HarvardBiz"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 5463359,
+                    "following_count": 178,
+                    "tweet_count": 639772,
+                    "listed_count": 7346,
+                    "like_count": 2836,
+                    "media_count": 75748
+                },
+                "id": "14594698",
+                "name": "UOL Not\u00edcias",
+                "username": "UOLNoticias"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 5374788,
+                    "following_count": 118,
+                    "tweet_count": 271726,
+                    "listed_count": 14319,
+                    "like_count": 2029,
+                    "media_count": 10382
+                },
+                "id": "41156599",
+                "name": "Proceso",
+                "username": "proceso"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 5311016,
+                    "following_count": 834,
+                    "tweet_count": 660227,
+                    "listed_count": 41066,
+                    "like_count": 825,
+                    "media_count": 154927
+                },
+                "id": "20402945",
+                "name": "CNBC",
+                "username": "CNBC"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 5232940,
+                    "following_count": 4390,
+                    "tweet_count": 139968,
+                    "listed_count": 16463,
+                    "like_count": 27508,
+                    "media_count": 45227
+                },
+                "id": "20998647",
+                "name": "The Weather Channel",
+                "username": "weatherchannel"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 5094563,
+                    "following_count": 919,
+                    "tweet_count": 450681,
+                    "listed_count": 36778,
+                    "like_count": 3543,
+                    "media_count": 74925
+                },
+                "id": "15754281",
+                "name": "USA TODAY",
+                "username": "USATODAY"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 5056643,
+                    "following_count": 793,
+                    "tweet_count": 309873,
+                    "listed_count": 31177,
+                    "like_count": 783,
+                    "media_count": 72503
+                },
+                "id": "2836421",
+                "name": "MSNBC",
+                "username": "MSNBC"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 4895319,
+                    "following_count": 1405,
+                    "tweet_count": 460619,
+                    "listed_count": 31678,
+                    "like_count": 2664,
+                    "media_count": 74318
+                },
+                "id": "14436030",
+                "name": "EL MUNDO",
+                "username": "elmundoes"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 4862132,
+                    "following_count": 777,
+                    "tweet_count": 457597,
+                    "listed_count": 6246,
+                    "like_count": 4336,
+                    "media_count": 260459
+                },
+                "id": "32861321",
+                "name": "RFI",
+                "username": "RFI"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 4798985,
+                    "following_count": 659,
+                    "tweet_count": 466563,
+                    "listed_count": 3089,
+                    "like_count": 7,
+                    "media_count": 164814
+                },
+                "id": "301309392",
+                "name": "eNCA",
+                "username": "eNCA"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 4786987,
+                    "following_count": 10,
+                    "tweet_count": 30662,
+                    "listed_count": 8031,
+                    "like_count": 1808,
+                    "media_count": 13681
+                },
+                "id": "4914384040",
+                "name": "The Babylon Bee",
+                "username": "TheBabylonBee"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 4747182,
+                    "following_count": 5593,
+                    "tweet_count": 134239,
+                    "listed_count": 9662,
+                    "like_count": 6579,
+                    "media_count": 29728
+                },
+                "id": "40076725",
+                "name": "MTV NEWS",
+                "username": "MTVNEWS"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 4636787,
+                    "following_count": 216,
+                    "tweet_count": 438273,
+                    "listed_count": 30941,
+                    "like_count": 3146,
+                    "media_count": 60383
+                },
+                "id": "624413",
+                "name": "MarketWatch",
+                "username": "MarketWatch"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 4598874,
+                    "following_count": 1183,
+                    "tweet_count": 187926,
+                    "listed_count": 17565,
+                    "like_count": 6401,
+                    "media_count": 34153
+                },
+                "id": "15279429",
+                "name": "VANITY FAIR",
+                "username": "VanityFair"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 4574813,
+                    "following_count": 326,
+                    "tweet_count": 222741,
+                    "listed_count": 22514,
+                    "like_count": 4,
+                    "media_count": 153753
+                },
+                "id": "13850422",
+                "name": "CNN Politics",
+                "username": "CNNPolitics"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 4525490,
+                    "following_count": 809,
+                    "tweet_count": 77237,
+                    "listed_count": 27568,
+                    "like_count": 6164,
+                    "media_count": 16710
+                },
+                "id": "14647570",
+                "name": "Scientific American",
+                "username": "sciam"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 4515801,
+                    "following_count": 1213,
+                    "tweet_count": 393038,
+                    "listed_count": 42330,
+                    "like_count": 208,
+                    "media_count": 158233
+                },
+                "id": "9300262",
+                "name": "POLITICO",
+                "username": "politico"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 4497293,
+                    "following_count": 570,
+                    "tweet_count": 890430,
+                    "listed_count": 11173,
+                    "like_count": 3226,
+                    "media_count": 673918
+                },
+                "id": "133663801",
+                "name": "BFMTV",
+                "username": "BFMTV"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 4426604,
+                    "following_count": 281,
+                    "tweet_count": 143139,
+                    "listed_count": 31453,
+                    "like_count": 16818,
+                    "media_count": 60275
+                },
+                "id": "19658826",
+                "name": "New Scientist",
+                "username": "newscientist"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 4341238,
+                    "following_count": 343,
+                    "tweet_count": 1209679,
+                    "listed_count": 28439,
+                    "like_count": 242,
+                    "media_count": 1039764
+                },
+                "id": "1917731",
+                "name": "The Hill",
+                "username": "thehill"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 4285855,
+                    "following_count": 438,
+                    "tweet_count": 402371,
+                    "listed_count": 12994,
+                    "like_count": 1235,
+                    "media_count": 192404
+                },
+                "id": "1994321",
+                "name": "FRANCE 24",
+                "username": "FRANCE24"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 4283953,
+                    "following_count": 287,
+                    "tweet_count": 1068326,
+                    "listed_count": 6688,
+                    "like_count": 212,
+                    "media_count": 142307
+                },
+                "id": "38647512",
+                "name": "The Indian Express",
+                "username": "IndianExpress"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 4175918,
+                    "following_count": 231,
+                    "tweet_count": 539046,
+                    "listed_count": 10995,
+                    "like_count": 466,
+                    "media_count": 375985
+                },
+                "id": "33989170",
+                "name": "LA NACION",
+                "username": "LANACION"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 4115929,
+                    "following_count": 38,
+                    "tweet_count": 454213,
+                    "listed_count": 45246,
+                    "like_count": 0,
+                    "media_count": 14674
+                },
+                "id": "169480493",
+                "name": "\u65e5\u672c\u7d4c\u6e08\u65b0\u805e \u96fb\u5b50\u7248\uff08\u65e5\u7d4c\u96fb\u5b50\u7248\uff09",
+                "username": "nikkei"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 4108910,
+                    "following_count": 404,
+                    "tweet_count": 770667,
+                    "listed_count": 35257,
+                    "like_count": 2152,
+                    "media_count": 355647
+                },
+                "id": "20562637",
+                "name": "Business Insider",
+                "username": "BusinessInsider"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 4062478,
+                    "following_count": 7167,
+                    "tweet_count": 263441,
+                    "listed_count": 16845,
+                    "like_count": 10667,
+                    "media_count": 101922
+                },
+                "id": "7744592",
+                "name": "TODAY",
+                "username": "TODAYshow"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3932983,
+                    "following_count": 141,
+                    "tweet_count": 582415,
+                    "listed_count": 12447,
+                    "like_count": 475,
+                    "media_count": 121863
+                },
+                "id": "27708897",
+                "name": "REFORMA",
+                "username": "Reforma"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3872893,
+                    "following_count": 6407,
+                    "tweet_count": 556895,
+                    "listed_count": 34637,
+                    "like_count": 3712,
+                    "media_count": 97059
+                },
+                "id": "16664681",
+                "name": "Los Angeles Times",
+                "username": "latimes"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3782561,
+                    "following_count": 418,
+                    "tweet_count": 1096815,
+                    "listed_count": 4889,
+                    "like_count": 7734,
+                    "media_count": 269435
+                },
+                "id": "330826792",
+                "name": "Rappler",
+                "username": "rapplerdotcom"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3756350,
+                    "following_count": 571,
+                    "tweet_count": 774475,
+                    "listed_count": 17225,
+                    "like_count": 6396,
+                    "media_count": 121301
+                },
+                "id": "8350912",
+                "name": "Le Figaro",
+                "username": "Le_Figaro"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3724607,
+                    "following_count": 1204,
+                    "tweet_count": 279294,
+                    "listed_count": 15299,
+                    "like_count": 5261,
+                    "media_count": 95477
+                },
+                "id": "6433472",
+                "name": "CBC News",
+                "username": "CBCNews"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3685876,
+                    "following_count": 21,
+                    "tweet_count": 696580,
+                    "listed_count": 66790,
+                    "like_count": 3,
+                    "media_count": 24847
+                },
+                "id": "204245399",
+                "name": "NHK\u30cb\u30e5\u30fc\u30b9",
+                "username": "nhk_news"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3680105,
+                    "following_count": 2327,
+                    "tweet_count": 350993,
+                    "listed_count": 14564,
+                    "like_count": 6804,
+                    "media_count": 178540
+                },
+                "id": "22650211",
+                "name": "Good Morning America",
+                "username": "GMA"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3642955,
+                    "following_count": 406,
+                    "tweet_count": 1050835,
+                    "listed_count": 12195,
+                    "like_count": 439,
+                    "media_count": 53564
+                },
+                "id": "18935802",
+                "name": "Repubblica",
+                "username": "repubblica"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3588332,
+                    "following_count": 138,
+                    "tweet_count": 658288,
+                    "listed_count": 11554,
+                    "like_count": 527,
+                    "media_count": 223072
+                },
+                "id": "8105922",
+                "name": "Clar\u00edn",
+                "username": "clarincom"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3553864,
+                    "following_count": 588,
+                    "tweet_count": 380950,
+                    "listed_count": 35827,
+                    "like_count": 2446,
+                    "media_count": 177449
+                },
+                "id": "2884771",
+                "name": "Newsweek",
+                "username": "Newsweek"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3536796,
+                    "following_count": 465,
+                    "tweet_count": 1510936,
+                    "listed_count": 25114,
+                    "like_count": 122,
+                    "media_count": 274772
+                },
+                "id": "16973333",
+                "name": "The Independent",
+                "username": "Independent"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3523527,
+                    "following_count": 276,
+                    "tweet_count": 327178,
+                    "listed_count": 16449,
+                    "like_count": 2354,
+                    "media_count": 107013
+                },
+                "id": "68440549",
+                "name": "Lib\u00e9ration",
+                "username": "libe"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3488759,
+                    "following_count": 180,
+                    "tweet_count": 242198,
+                    "listed_count": 36107,
+                    "like_count": 1372,
+                    "media_count": 174095
+                },
+                "id": "275686563",
+                "name": "The Verge",
+                "username": "verge"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3466140,
+                    "following_count": 282,
+                    "tweet_count": 86827,
+                    "listed_count": 11049,
+                    "like_count": 4639,
+                    "media_count": 38656
+                },
+                "id": "25170188",
+                "name": "Bon App\u00e9tit",
+                "username": "bonappetit"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3431141,
+                    "following_count": 7495,
+                    "tweet_count": 541006,
+                    "listed_count": 20979,
+                    "like_count": 1507,
+                    "media_count": 187615
+                },
+                "id": "17446621",
+                "name": "The Hollywood Reporter",
+                "username": "THR"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3411112,
+                    "following_count": 366,
+                    "tweet_count": 623254,
+                    "listed_count": 10660,
+                    "like_count": 707,
+                    "media_count": 178555
+                },
+                "id": "38142665",
+                "name": "Le Parisien",
+                "username": "le_Parisien"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3409409,
+                    "following_count": 852,
+                    "tweet_count": 616721,
+                    "listed_count": 21893,
+                    "like_count": 5794,
+                    "media_count": 124458
+                },
+                "id": "16343974",
+                "name": "The Telegraph",
+                "username": "Telegraph"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3401761,
+                    "following_count": 118,
+                    "tweet_count": 21433,
+                    "listed_count": 10461,
+                    "like_count": 428,
+                    "media_count": 1665
+                },
+                "id": "23970102",
+                "name": "Bill O'Reilly",
+                "username": "BillOReilly"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3376427,
+                    "following_count": 10225,
+                    "tweet_count": 723085,
+                    "listed_count": 22967,
+                    "like_count": 1807,
+                    "media_count": 578374
+                },
+                "id": "17469289",
+                "name": "New York Post",
+                "username": "nypost"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3326314,
+                    "following_count": 1683,
+                    "tweet_count": 132244,
+                    "listed_count": 24554,
+                    "like_count": 8115,
+                    "media_count": 31646
+                },
+                "id": "1333467482",
+                "name": "CoinDesk",
+                "username": "CoinDesk"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3306590,
+                    "following_count": 782,
+                    "tweet_count": 227377,
+                    "listed_count": 7893,
+                    "like_count": 6878,
+                    "media_count": 63997
+                },
+                "id": "20545835",
+                "name": "NEWSMAX",
+                "username": "NEWSMAX"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3278358,
+                    "following_count": 2462,
+                    "tweet_count": 177784,
+                    "listed_count": 9720,
+                    "like_count": 19606,
+                    "media_count": 34045
+                },
+                "id": "24190981",
+                "name": "Teen Vogue",
+                "username": "TeenVogue"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3259350,
+                    "following_count": 347,
+                    "tweet_count": 320180,
+                    "listed_count": 9444,
+                    "like_count": 3324,
+                    "media_count": 48118
+                },
+                "id": "2834511",
+                "name": "DER SPIEGEL",
+                "username": "derspiegel"
+            },
+            {
+                "public_metrics": {
+                    "followers_count": 3257583,
+                    "following_count": 769,
+                    "tweet_count": 497649,
+                    "listed_count": 21680,
+                    "like_count": 2213,
+                    "media_count": 266552
+                },
+                "withheld": {
+                    "country_codes": [
+                        "AT",
+                        "BE",
+                        "BG",
+                        "CY",
+                        "CZ",
+                        "DE",
+                        "DK",
+                        "EE",
+                        "ES",
+                        "FI",
+                        "FR",
+                        "GB",
+                        "GR",
+                        "HR",
+                        "HU",
+                        "IE",
+                        "IT",
+                        "LT",
+                        "LU",
+                        "LV",
+                        "MT",
+                        "NL",
+                        "PL",
+                        "PT",
+                        "RO",
+                        "SE",
+                        "SI",
+                        "SK"
+                    ]
+                },
+                "id": "64643056",
+                "name": "RT",
+                "username": "RT_com"
+            }
+        ]
+    }
+}

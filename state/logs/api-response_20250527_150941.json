@@ -1,5 +1,5 @@
 {
-    "timestamp": "20250523_150911",
+    "timestamp": "20250527_150941",
     "response": {
         "data": [
             {
@@ -7,10 +7,10 @@
                 "id": "428333",
                 "username": "cnnbrk",
                 "public_metrics": {
-                    "followers_count": 63521519,
+                    "followers_count": 63533786,
                     "following_count": 119,
-                    "tweet_count": 83401,
-                    "listed_count": 184407,
+                    "tweet_count": 83417,
+                    "listed_count": 184398,
                     "like_count": 23,
                     "media_count": 17326
                 }
@@ -20,11 +20,11 @@
                 "id": "759251",
                 "username": "CNN",
                 "public_metrics": {
-                    "followers_count": 63286455,
+                    "followers_count": 63308512,
                     "following_count": 1048,
-                    "tweet_count": 424428,
-                    "listed_count": 154471,
-                    "like_count": 1338,
+                    "tweet_count": 424445,
+                    "listed_count": 154467,
+                    "like_count": 1337,
                     "media_count": 190606
                 }
             },
@@ -33,12 +33,12 @@
                 "id": "2557521",
                 "username": "espn",
                 "public_metrics": {
-                    "followers_count": 58103348,
+                    "followers_count": 58187948,
                     "following_count": 415,
-                    "tweet_count": 152049,
-                    "listed_count": 60006,
-                    "like_count": 4522,
-                    "media_count": 59422
+                    "tweet_count": 152133,
+                    "listed_count": 60011,
+                    "like_count": 4566,
+                    "media_count": 59483
                 }
             },
             {
@@ -46,10 +46,10 @@
                 "id": "807095",
                 "username": "nytimes",
                 "public_metrics": {
-                    "followers_count": 54993445,
+                    "followers_count": 55001397,
                     "following_count": 849,
-                    "tweet_count": 559179,
-                    "listed_count": 207602,
+                    "tweet_count": 559219,
+                    "listed_count": 207586,
                     "like_count": 18490,
                     "media_count": 72448
                 }
@@ -59,12 +59,12 @@
                 "id": "17471979",
                 "username": "NatGeo",
                 "public_metrics": {
-                    "followers_count": 28857353,
+                    "followers_count": 28861113,
                     "following_count": 182,
-                    "tweet_count": 72386,
-                    "listed_count": 60304,
-                    "like_count": 7267,
-                    "media_count": 8229
+                    "tweet_count": 72391,
+                    "listed_count": 60293,
+                    "like_count": 7270,
+                    "media_count": 8231
                 }
             },
             {
@@ -72,12 +72,12 @@
                 "id": "5988062",
                 "username": "TheEconomist",
                 "public_metrics": {
-                    "followers_count": 27005491,
+                    "followers_count": 27008694,
                     "following_count": 154,
-                    "tweet_count": 419792,
-                    "listed_count": 118551,
+                    "tweet_count": 420186,
+                    "listed_count": 118553,
                     "like_count": 153,
-                    "media_count": 85844
+                    "media_count": 85893
                 }
             },
             {
@@ -85,12 +85,12 @@
                 "id": "1367531",
                 "username": "FoxNews",
                 "public_metrics": {
-                    "followers_count": 26145051,
+                    "followers_count": 26188660,
                     "following_count": 265,
-                    "tweet_count": 663915,
-                    "listed_count": 77370,
+                    "tweet_count": 664353,
+                    "listed_count": 77388,
                     "like_count": 3,
-                    "media_count": 164022
+                    "media_count": 164156
                 }
             },
             {
@@ -98,12 +98,12 @@
                 "id": "1652541",
                 "username": "Reuters",
                 "public_metrics": {
-                    "followers_count": 25491733,
-                    "following_count": 1194,
-                    "tweet_count": 1254104,
-                    "listed_count": 133647,
+                    "followers_count": 25493798,
+                    "following_count": 1193,
+                    "tweet_count": 1255124,
+                    "listed_count": 133654,
                     "like_count": 682,
-                    "media_count": 982634
+                    "media_count": 982800
                 }
             },
             {
@@ -111,12 +111,12 @@
                 "id": "91478624",
                 "username": "Forbes",
                 "public_metrics": {
-                    "followers_count": 20735665,
-                    "following_count": 4658,
-                    "tweet_count": 637160,
-                    "listed_count": 62520,
+                    "followers_count": 20740056,
+                    "following_count": 4657,
+                    "tweet_count": 637741,
+                    "listed_count": 62515,
                     "like_count": 10063,
-                    "media_count": 357155
+                    "media_count": 357415
                 }
             },
             {
@@ -124,12 +124,12 @@
                 "id": "3108351",
                 "username": "WSJ",
                 "public_metrics": {
-                    "followers_count": 20677712,
+                    "followers_count": 20681802,
                     "following_count": 1066,
-                    "tweet_count": 470821,
-                    "listed_count": 125701,
+                    "tweet_count": 471074,
+                    "listed_count": 125702,
                     "like_count": 1071,
-                    "media_count": 51427
+                    "media_count": 51442
                 }
             },
             {
@@ -137,12 +137,12 @@
                 "id": "890891",
                 "username": "BleacherReport",
                 "public_metrics": {
-                    "followers_count": 20015370,
-                    "following_count": 967,
-                    "tweet_count": 185602,
-                    "listed_count": 22438,
-                    "like_count": 906,
-                    "media_count": 132074
+                    "followers_count": 20012726,
+                    "following_count": 966,
+                    "tweet_count": 185680,
+                    "listed_count": 22444,
+                    "like_count": 905,
+                    "media_count": 132138
                 }
             },
             {
@@ -150,12 +150,12 @@
                 "id": "2467791",
                 "username": "washingtonpost",
                 "public_metrics": {
-                    "followers_count": 19789441,
+                    "followers_count": 19791492,
                     "following_count": 1641,
-                    "tweet_count": 514798,
-                    "listed_count": 104427,
-                    "like_count": 3774,
-                    "media_count": 21347
+                    "tweet_count": 514937,
+                    "listed_count": 104425,
+                    "like_count": 3773,
+                    "media_count": 21349
                 }
             },
             {
@@ -163,12 +163,12 @@
                 "id": "14293310",
                 "username": "TIME",
                 "public_metrics": {
-                    "followers_count": 19104756,
+                    "followers_count": 19105755,
                     "following_count": 471,
-                    "tweet_count": 434427,
-                    "listed_count": 101545,
+                    "tweet_count": 434470,
+                    "listed_count": 101521,
                     "like_count": 566,
-                    "media_count": 31452
+                    "media_count": 31454
                 }
             },
             {
@@ -176,12 +176,12 @@
                 "id": "28785486",
                 "username": "ABC",
                 "public_metrics": {
-                    "followers_count": 17770038,
+                    "followers_count": 17777174,
                     "following_count": 424,
-                    "tweet_count": 476229,
-                    "listed_count": 66434,
+                    "tweet_count": 476492,
+                    "listed_count": 66436,
                     "like_count": 60,
-                    "media_count": 199900
+                    "media_count": 199977
                 }
             },
             {
@@ -189,12 +189,12 @@
                 "id": "51241574",
                 "username": "AP",
                 "public_metrics": {
-                    "followers_count": 15735159,
-                    "following_count": 6270,
-                    "tweet_count": 386990,
-                    "listed_count": 102553,
+                    "followers_count": 15736501,
+                    "following_count": 6269,
+                    "tweet_count": 387019,
+                    "listed_count": 102542,
                     "like_count": 4335,
-                    "media_count": 15542
+                    "media_count": 15546
                 }
             },
             {
@@ -202,12 +202,12 @@
                 "id": "8802752",
                 "username": "g1",
                 "public_metrics": {
-                    "followers_count": 15313001,
+                    "followers_count": 15315020,
                     "following_count": 64,
-                    "tweet_count": 802807,
-                    "listed_count": 18835,
+                    "tweet_count": 803025,
+                    "listed_count": 18832,
                     "like_count": 18,
-                    "media_count": 314863
+                    "media_count": 314926
                 }
             },
             {
@@ -215,10 +215,10 @@
                 "id": "136361303",
                 "username": "voguemagazine",
                 "public_metrics": {
-                    "followers_count": 15157995,
+                    "followers_count": 15158224,
                     "following_count": 443,
-                    "tweet_count": 197962,
-                    "listed_count": 21655,
+                    "tweet_count": 198009,
+                    "listed_count": 0,
                     "like_count": 4937,
                     "media_count": 13880
                 }
@@ -228,10 +228,10 @@
                 "id": "2097571",
                 "username": "cnni",
                 "public_metrics": {
-                    "followers_count": 15038963,
+                    "followers_count": 15042174,
                     "following_count": 360,
-                    "tweet_count": 301473,
-                    "listed_count": 49966,
+                    "tweet_count": 301485,
+                    "listed_count": 49963,
                     "like_count": 121,
                     "media_count": 113527
                 }
@@ -241,12 +241,12 @@
                 "id": "134758540",
                 "username": "timesofindia",
                 "public_metrics": {
-                    "followers_count": 14844049,
+                    "followers_count": 14848850,
                     "following_count": 158,
-                    "tweet_count": 1015010,
-                    "listed_count": 13259,
-                    "like_count": 21,
-                    "media_count": 461171
+                    "tweet_count": 1015443,
+                    "listed_count": 13253,
+                    "like_count": 22,
+                    "media_count": 461397
                 }
             },
             {
@@ -254,12 +254,12 @@
                 "id": "2883841",
                 "username": "enews",
                 "public_metrics": {
-                    "followers_count": 11522975,
-                    "following_count": 101191,
-                    "tweet_count": 360036,
+                    "followers_count": 11523312,
+                    "following_count": 101184,
+                    "tweet_count": 360243,
                     "listed_count": 30981,
-                    "like_count": 28149,
-                    "media_count": 115385
+                    "like_count": 28146,
+                    "media_count": 115498
                 }
             },
             {
@@ -267,10 +267,10 @@
                 "id": "14075928",
                 "username": "TheOnion",
                 "public_metrics": {
-                    "followers_count": 11148749,
+                    "followers_count": 11152179,
                     "following_count": 7,
-                    "tweet_count": 110189,
-                    "listed_count": 58933,
+                    "tweet_count": 110193,
+                    "listed_count": 58921,
                     "like_count": 6,
                     "media_count": 60888
                 }
@@ -280,10 +280,10 @@
                 "id": "24744541",
                 "username": "lemondefr",
                 "public_metrics": {
-                    "followers_count": 11028011,
+                    "followers_count": 11027334,
                     "following_count": 383,
                     "tweet_count": 484264,
-                    "listed_count": 36303,
+                    "listed_count": 36298,
                     "like_count": 1588,
                     "media_count": 34388
                 }
@@ -293,10 +293,10 @@
                 "id": "87818409",
                 "username": "guardian",
                 "public_metrics": {
-                    "followers_count": 10628102,
+                    "followers_count": 10627034,
                     "following_count": 995,
                     "tweet_count": 861579,
-                    "listed_count": 68489,
+                    "listed_count": 68485,
                     "like_count": 126,
                     "media_count": 24712
                 }
@@ -306,12 +306,12 @@
                 "id": "14511951",
                 "username": "HuffPost",
                 "public_metrics": {
-                    "followers_count": 10546864,
+                    "followers_count": 10546239,
                     "following_count": 5311,
-                    "tweet_count": 676897,
-                    "listed_count": 74538,
+                    "tweet_count": 677198,
+                    "listed_count": 74536,
                     "like_count": 1053,
-                    "media_count": 89695
+                    "media_count": 89706
                 }
             },
             {
@@ -319,12 +319,12 @@
                 "id": "816653",
                 "username": "TechCrunch",
                 "public_metrics": {
-                    "followers_count": 10258254,
+                    "followers_count": 10264318,
                     "following_count": 465,
-                    "tweet_count": 278492,
-                    "listed_count": 101893,
-                    "like_count": 7481,
-                    "media_count": 51088
+                    "tweet_count": 278533,
+                    "listed_count": 101879,
+                    "like_count": 7480,
+                    "media_count": 51091
                 }
             },
             {
@@ -332,12 +332,12 @@
                 "id": "1344951",
                 "username": "WIRED",
                 "public_metrics": {
-                    "followers_count": 9733332,
+                    "followers_count": 9732998,
                     "following_count": 442,
-                    "tweet_count": 181334,
-                    "listed_count": 80991,
+                    "tweet_count": 181411,
+                    "listed_count": 80972,
                     "like_count": 6934,
-                    "media_count": 38447
+                    "media_count": 38449
                 }
             },
             {
@@ -345,12 +345,12 @@
                 "id": "34713362",
                 "username": "business",
                 "public_metrics": {
-                    "followers_count": 9676167,
+                    "followers_count": 9678226,
                     "following_count": 98,
-                    "tweet_count": 1166141,
-                    "listed_count": 70669,
-                    "like_count": 4638,
-                    "media_count": 318485
+                    "tweet_count": 1166684,
+                    "listed_count": 70682,
+                    "like_count": 4642,
+                    "media_count": 318505
                 }
             },
             {
@@ -358,12 +358,12 @@
                 "id": "520653311",
                 "username": "AristeguiOnline",
                 "public_metrics": {
-                    "followers_count": 9573716,
+                    "followers_count": 9574030,
                     "following_count": 1,
-                    "tweet_count": 449639,
-                    "listed_count": 14956,
+                    "tweet_count": 449859,
+                    "listed_count": 14959,
                     "like_count": 206,
-                    "media_count": 170930
+                    "media_count": 170965
                 }
             },
             {
@@ -371,10 +371,10 @@
                 "id": "14173315",
                 "username": "NBCNews",
                 "public_metrics": {
-                    "followers_count": 9367577,
+                    "followers_count": 9368970,
                     "following_count": 1322,
-                    "tweet_count": 428012,
-                    "listed_count": 51668,
+                    "tweet_count": 428213,
+                    "listed_count": 51666,
                     "like_count": 715,
                     "media_count": 96223
                 }
@@ -384,10 +384,10 @@
                 "id": "6017542",
                 "username": "BreakingNews",
                 "public_metrics": {
-                    "followers_count": 9165394,
+                    "followers_count": 9165283,
                     "following_count": 536,
-                    "tweet_count": 109136,
-                    "listed_count": 77838,
+                    "tweet_count": 109140,
+                    "listed_count": 77833,
                     "like_count": 6,
                     "media_count": 658
                 }
@@ -397,12 +397,12 @@
                 "id": "9633802",
                 "username": "ELTIEMPO",
                 "public_metrics": {
-                    "followers_count": 9155077,
-                    "following_count": 24086,
-                    "tweet_count": 837079,
+                    "followers_count": 9156426,
+                    "following_count": 24087,
+                    "tweet_count": 837690,
                     "listed_count": 15923,
-                    "like_count": 12782,
-                    "media_count": 471005
+                    "like_count": 12781,
+                    "media_count": 471298
                 }
             },
             {
@@ -410,12 +410,12 @@
                 "id": "4970411",
                 "username": "AJEnglish",
                 "public_metrics": {
-                    "followers_count": 8958600,
+                    "followers_count": 8965324,
                     "following_count": 249,
-                    "tweet_count": 389887,
-                    "listed_count": 56861,
-                    "like_count": 18325,
-                    "media_count": 157249
+                    "tweet_count": 390168,
+                    "listed_count": 56850,
+                    "like_count": 18357,
+                    "media_count": 157422
                 }
             },
             {
@@ -423,12 +423,12 @@
                 "id": "15012486",
                 "username": "CBSNews",
                 "public_metrics": {
-                    "followers_count": 8952229,
+                    "followers_count": 8954513,
                     "following_count": 626,
-                    "tweet_count": 440366,
-                    "listed_count": 56045,
+                    "tweet_count": 440594,
+                    "listed_count": 56051,
                     "like_count": 375,
-                    "media_count": 198461
+                    "media_count": 198475
                 }
             },
             {
@@ -436,12 +436,12 @@
                 "id": "17842366",
                 "username": "Discovery",
                 "public_metrics": {
-                    "followers_count": 8940195,
+                    "followers_count": 8939824,
                     "following_count": 608,
-                    "tweet_count": 58594,
-                    "listed_count": 20381,
+                    "tweet_count": 58604,
+                    "listed_count": 20373,
                     "like_count": 9184,
-                    "media_count": 15955
+                    "media_count": 15964
                 }
             },
             {
@@ -449,12 +449,12 @@
                 "id": "14594813",
                 "username": "folha",
                 "public_metrics": {
-                    "followers_count": 8844342,
-                    "following_count": 162650,
-                    "tweet_count": 808128,
-                    "listed_count": 13798,
+                    "followers_count": 8844861,
+                    "following_count": 162637,
+                    "tweet_count": 808929,
+                    "listed_count": 13801,
                     "like_count": 220,
-                    "media_count": 130409
+                    "media_count": 130470
                 }
             },
             {
@@ -462,12 +462,12 @@
                 "id": "7996082",
                 "username": "el_pais",
                 "public_metrics": {
-                    "followers_count": 8822370,
-                    "following_count": 851,
-                    "tweet_count": 844527,
-                    "listed_count": 55930,
+                    "followers_count": 8823343,
+                    "following_count": 852,
+                    "tweet_count": 844907,
+                    "listed_count": 55922,
                     "like_count": 1984,
-                    "media_count": 83491
+                    "media_count": 83550
                 }
             },
             {
@@ -475,12 +475,12 @@
                 "id": "972651",
                 "username": "mashable",
                 "public_metrics": {
-                    "followers_count": 8811278,
+                    "followers_count": 8810874,
                     "following_count": 2536,
-                    "tweet_count": 562290,
-                    "listed_count": 105930,
-                    "like_count": 2015,
-                    "media_count": 301953
+                    "tweet_count": 562516,
+                    "listed_count": 105917,
+                    "like_count": 2013,
+                    "media_count": 302002
                 }
             },
             {
@@ -488,12 +488,12 @@
                 "id": "14677919",
                 "username": "NewYorker",
                 "public_metrics": {
-                    "followers_count": 8462700,
+                    "followers_count": 8462362,
                     "following_count": 393,
-                    "tweet_count": 181740,
-                    "listed_count": 58171,
-                    "like_count": 1834,
-                    "media_count": 47194
+                    "tweet_count": 181900,
+                    "listed_count": 58160,
+                    "like_count": 1833,
+                    "media_count": 47208
                 }
             },
             {
@@ -501,12 +501,12 @@
                 "id": "16331010",
                 "username": "TMZ",
                 "public_metrics": {
-                    "followers_count": 8426837,
+                    "followers_count": 8426622,
                     "following_count": 937,
-                    "tweet_count": 477987,
-                    "listed_count": 19506,
+                    "tweet_count": 478200,
+                    "listed_count": 19508,
                     "like_count": 1390,
-                    "media_count": 61995
+                    "media_count": 62068
                 }
             },
             {
@@ -514,12 +514,12 @@
                 "id": "20751449",
                 "username": "the_hindu",
                 "public_metrics": {
-                    "followers_count": 8397823,
+                    "followers_count": 8399940,
                     "following_count": 200,
-                    "tweet_count": 633680,
-                    "listed_count": 8352,
+                    "tweet_count": 634393,
+                    "listed_count": 8347,
                     "like_count": 238,
-                    "media_count": 50946
+                    "media_count": 51014
                 }
             },
             {
@@ -527,10 +527,10 @@
                 "id": "5392522",
                 "username": "NPR",
                 "public_metrics": {
-                    "followers_count": 8254735,
-                    "following_count": 58187,
+                    "followers_count": 8254192,
+                    "following_count": 58186,
                     "tweet_count": 244045,
-                    "listed_count": 62873,
+                    "listed_count": 62874,
                     "like_count": 2441,
                     "media_count": 11291
                 }
@@ -540,12 +540,12 @@
                 "id": "16676396",
                 "username": "El_Universal_Mx",
                 "public_metrics": {
-                    "followers_count": 8162170,
+                    "followers_count": 8166063,
                     "following_count": 13905,
-                    "tweet_count": 1467703,
-                    "listed_count": 24827,
+                    "tweet_count": 1468513,
+                    "listed_count": 24826,
                     "like_count": 30435,
-                    "media_count": 321203
+                    "media_count": 321411
                 }
             },
             {
@@ -553,10 +553,10 @@
                 "id": "25589776",
                 "username": "people",
                 "public_metrics": {
-                    "followers_count": 7487121,
+                    "followers_count": 7487592,
                     "following_count": 1571,
-                    "tweet_count": 524810,
-                    "listed_count": 28867,
+                    "tweet_count": 525372,
+                    "listed_count": 28860,
                     "like_count": 4466,
                     "media_count": 127124
                 }
@@ -566,12 +566,12 @@
                 "id": "9317502",
                 "username": "Estadao",
                 "public_metrics": {
-                    "followers_count": 7464051,
+                    "followers_count": 7464196,
                     "following_count": 345,
-                    "tweet_count": 257579,
-                    "listed_count": 13293,
+                    "tweet_count": 257759,
+                    "listed_count": 13289,
                     "like_count": 467,
-                    "media_count": 48162
+                    "media_count": 48282
                 }
             },
             {
@@ -579,12 +579,12 @@
                 "id": "54341363",
                 "username": "JornalOGlobo",
                 "public_metrics": {
-                    "followers_count": 7254883,
-                    "following_count": 7004,
-                    "tweet_count": 620493,
-                    "listed_count": 12974,
+                    "followers_count": 7254997,
+                    "following_count": 7006,
+                    "tweet_count": 620747,
+                    "listed_count": 12971,
                     "like_count": 114,
-                    "media_count": 225782
+                    "media_count": 225795
                 }
             },
             {
@@ -592,12 +592,12 @@
                 "id": "14697575",
                 "username": "News24",
                 "public_metrics": {
-                    "followers_count": 6570440,
+                    "followers_count": 6574830,
                     "following_count": 756,
-                    "tweet_count": 481969,
-                    "listed_count": 5356,
+                    "tweet_count": 482172,
+                    "listed_count": 5358,
                     "like_count": 1236,
-                    "media_count": 71440
+                    "media_count": 71443
                 }
             },
             {
@@ -605,12 +605,12 @@
                 "id": "19897138",
                 "username": "IndiaToday",
                 "public_metrics": {
-                    "followers_count": 6319111,
+                    "followers_count": 6319428,
                     "following_count": 112,
-                    "tweet_count": 1370763,
-                    "listed_count": 7171,
+                    "tweet_count": 1371564,
+                    "listed_count": 7167,
                     "like_count": 4439,
-                    "media_count": 456581
+                    "media_count": 457062
                 }
             },
             {
@@ -618,12 +618,12 @@
                 "id": "24969337",
                 "username": "Milenio",
                 "public_metrics": {
-                    "followers_count": 6115408,
+                    "followers_count": 6117614,
                     "following_count": 17,
-                    "tweet_count": 1266352,
-                    "listed_count": 15469,
+                    "tweet_count": 1266790,
+                    "listed_count": 15468,
                     "like_count": 23,
-                    "media_count": 751363
+                    "media_count": 751551
                 }
             },
             {
@@ -631,12 +631,12 @@
                 "id": "18949452",
                 "username": "FT",
                 "public_metrics": {
-                    "followers_count": 6104585,
+                    "followers_count": 6107366,
                     "following_count": 1026,
-                    "tweet_count": 346572,
-                    "listed_count": 47790,
+                    "tweet_count": 346697,
+                    "listed_count": 47788,
                     "like_count": 40,
-                    "media_count": 58643
+                    "media_count": 58669
                 }
             },
             {
@@ -644,12 +644,12 @@
                 "id": "14780915",
                 "username": "RollingStone",
                 "public_metrics": {
-                    "followers_count": 6027145,
+                    "followers_count": 6029001,
                     "following_count": 534,
-                    "tweet_count": 241687,
-                    "listed_count": 32923,
-                    "like_count": 2220,
-                    "media_count": 110775
+                    "tweet_count": 241839,
+                    "listed_count": 32919,
+                    "like_count": 2227,
+                    "media_count": 110864
                 }
             },
             {
@@ -657,12 +657,12 @@
                 "id": "14800270",
                 "username": "HarvardBiz",
                 "public_metrics": {
-                    "followers_count": 5789474,
+                    "followers_count": 5790063,
                     "following_count": 198,
-                    "tweet_count": 135648,
-                    "listed_count": 48350,
-                    "like_count": 517,
-                    "media_count": 18976
+                    "tweet_count": 135737,
+                    "listed_count": 48345,
+                    "like_count": 516,
+                    "media_count": 18987
                 }
             },
             {
@@ -670,7 +670,7 @@
                 "id": "14594698",
                 "username": "UOLNoticias",
                 "public_metrics": {
-                    "followers_count": 5433405,
+                    "followers_count": 5433145,
                     "following_count": 178,
                     "tweet_count": 639733,
                     "listed_count": 7329,
@@ -683,12 +683,12 @@
                 "id": "20402945",
                 "username": "CNBC",
                 "public_metrics": {
-                    "followers_count": 5367535,
+                    "followers_count": 5376661,
                     "following_count": 835,
-                    "tweet_count": 666224,
-                    "listed_count": 41356,
+                    "tweet_count": 666317,
+                    "listed_count": 41359,
                     "like_count": 826,
-                    "media_count": 155041
+                    "media_count": 155042
                 }
             },
             {
@@ -696,12 +696,12 @@
                 "id": "41156599",
                 "username": "proceso",
                 "public_metrics": {
-                    "followers_count": 5358688,
+                    "followers_count": 5358983,
                     "following_count": 120,
-                    "tweet_count": 276616,
-                    "listed_count": 14301,
+                    "tweet_count": 276807,
+                    "listed_count": 14296,
                     "like_count": 2031,
-                    "media_count": 10502
+                    "media_count": 10504
                 }
             },
             {
@@ -709,12 +709,12 @@
                 "id": "20998647",
                 "username": "weatherchannel",
                 "public_metrics": {
-                    "followers_count": 5246811,
-                    "following_count": 4364,
-                    "tweet_count": 141120,
-                    "listed_count": 16382,
-                    "like_count": 27908,
-                    "media_count": 45421
+                    "followers_count": 5246767,
+                    "following_count": 4363,
+                    "tweet_count": 141167,
+                    "listed_count": 16379,
+                    "like_count": 27950,
+                    "media_count": 45428
                 }
             },
             {
@@ -722,12 +722,12 @@
                 "id": "15754281",
                 "username": "USATODAY",
                 "public_metrics": {
-                    "followers_count": 5090866,
+                    "followers_count": 5091985,
                     "following_count": 912,
-                    "tweet_count": 457622,
-                    "listed_count": 36734,
+                    "tweet_count": 457899,
+                    "listed_count": 36742,
                     "like_count": 3520,
-                    "media_count": 75841
+                    "media_count": 75868
                 }
             },
             {
@@ -735,12 +735,12 @@
                 "id": "2836421",
                 "username": "MSNBC",
                 "public_metrics": {
-                    "followers_count": 5047522,
+                    "followers_count": 5048363,
                     "following_count": 796,
-                    "tweet_count": 310719,
-                    "listed_count": 31102,
+                    "tweet_count": 310732,
+                    "listed_count": 31101,
                     "like_count": 785,
-                    "media_count": 72757
+                    "media_count": 72759
                 }
             },
             {
@@ -748,12 +748,12 @@
                 "id": "14436030",
                 "username": "elmundoes",
                 "public_metrics": {
-                    "followers_count": 4926307,
+                    "followers_count": 4928085,
                     "following_count": 1415,
-                    "tweet_count": 470695,
-                    "listed_count": 31642,
+                    "tweet_count": 471229,
+                    "listed_count": 31637,
                     "like_count": 2659,
-                    "media_count": 75389
+                    "media_count": 75428
                 }
             },
             {
@@ -761,12 +761,12 @@
                 "id": "32861321",
                 "username": "RFI",
                 "public_metrics": {
-                    "followers_count": 4915197,
-                    "following_count": 775,
-                    "tweet_count": 461295,
-                    "listed_count": 6253,
+                    "followers_count": 4918026,
+                    "following_count": 774,
+                    "tweet_count": 461514,
+                    "listed_count": 6254,
                     "like_count": 4262,
-                    "media_count": 266690
+                    "media_count": 266892
                 }
             },
             {
@@ -774,12 +774,12 @@
                 "id": "301309392",
                 "username": "eNCA",
                 "public_metrics": {
-                    "followers_count": 4864805,
+                    "followers_count": 4867911,
                     "following_count": 659,
-                    "tweet_count": 473458,
-                    "listed_count": 3103,
+                    "tweet_count": 473707,
+                    "listed_count": 3105,
                     "like_count": 7,
-                    "media_count": 168935
+                    "media_count": 169082
                 }
             },
             {
@@ -787,12 +787,12 @@
                 "id": "4914384040",
                 "username": "TheBabylonBee",
                 "public_metrics": {
-                    "followers_count": 4863603,
+                    "followers_count": 4869087,
                     "following_count": 10,
-                    "tweet_count": 31806,
-                    "listed_count": 8244,
+                    "tweet_count": 31855,
+                    "listed_count": 8250,
                     "like_count": 1840,
-                    "media_count": 14732
+                    "media_count": 14780
                 }
             },
             {
@@ -800,11 +800,11 @@
                 "id": "40076725",
                 "username": "MTVNEWS",
                 "public_metrics": {
-                    "followers_count": 4702804,
-                    "following_count": 5564,
-                    "tweet_count": 134206,
-                    "listed_count": 9630,
-                    "like_count": 6535,
+                    "followers_count": 4702289,
+                    "following_count": 5565,
+                    "tweet_count": 134205,
+                    "listed_count": 9629,
+                    "like_count": 6533,
                     "media_count": 29727
                 }
             },
@@ -813,10 +813,10 @@
                 "id": "624413",
                 "username": "MarketWatch",
                 "public_metrics": {
-                    "followers_count": 4643440,
+                    "followers_count": 4644802,
                     "following_count": 197,
-                    "tweet_count": 441263,
-                    "listed_count": 31034,
+                    "tweet_count": 441322,
+                    "listed_count": 31030,
                     "like_count": 3123,
                     "media_count": 60385
                 }
@@ -826,10 +826,10 @@
                 "id": "13850422",
                 "username": "CNNPolitics",
                 "public_metrics": {
-                    "followers_count": 4579058,
+                    "followers_count": 4580101,
                     "following_count": 325,
-                    "tweet_count": 222994,
-                    "listed_count": 22464,
+                    "tweet_count": 222999,
+                    "listed_count": 22455,
                     "like_count": 4,
                     "media_count": 153779
                 }
@@ -839,12 +839,12 @@
                 "id": "15279429",
                 "username": "VanityFair",
                 "public_metrics": {
-                    "followers_count": 4562802,
+                    "followers_count": 4562639,
                     "following_count": 1180,
-                    "tweet_count": 189653,
-                    "listed_count": 17476,
-                    "like_count": 6326,
-                    "media_count": 34396
+                    "tweet_count": 189701,
+                    "listed_count": 17475,
+                    "like_count": 6325,
+                    "media_count": 34399
                 }
             },
             {
@@ -852,12 +852,12 @@
                 "id": "133663801",
                 "username": "BFMTV",
                 "public_metrics": {
-                    "followers_count": 4506391,
-                    "following_count": 569,
-                    "tweet_count": 913928,
-                    "listed_count": 11164,
-                    "like_count": 3408,
-                    "media_count": 696947
+                    "followers_count": 4508326,
+                    "following_count": 568,
+                    "tweet_count": 914888,
+                    "listed_count": 11163,
+                    "like_count": 3416,
+                    "media_count": 697875
                 }
             },
             {
@@ -865,12 +865,12 @@
                 "id": "9300262",
                 "username": "politico",
                 "public_metrics": {
-                    "followers_count": 4496206,
+                    "followers_count": 4496597,
                     "following_count": 1226,
-                    "tweet_count": 396990,
-                    "listed_count": 42288,
+                    "tweet_count": 397061,
+                    "listed_count": 42284,
                     "like_count": 204,
-                    "media_count": 158463
+                    "media_count": 158466
                 }
             },
             {
@@ -878,10 +878,10 @@
                 "id": "14647570",
                 "username": "sciam",
                 "public_metrics": {
-                    "followers_count": 4478529,
+                    "followers_count": 4477953,
                     "following_count": 801,
                     "tweet_count": 77166,
-                    "listed_count": 27323,
+                    "listed_count": 27311,
                     "like_count": 6110,
                     "media_count": 16710
                 }
@@ -891,12 +891,12 @@
                 "id": "19658826",
                 "username": "newscientist",
                 "public_metrics": {
-                    "followers_count": 4403858,
+                    "followers_count": 4403824,
                     "following_count": 280,
-                    "tweet_count": 146723,
-                    "listed_count": 31236,
-                    "like_count": 16597,
-                    "media_count": 60391
+                    "tweet_count": 146884,
+                    "listed_count": 31233,
+                    "like_count": 16594,
+                    "media_count": 60409
                 }
             },
             {
@@ -904,12 +904,12 @@
                 "id": "1917731",
                 "username": "thehill",
                 "public_metrics": {
-                    "followers_count": 4319203,
+                    "followers_count": 4319225,
                     "following_count": 344,
-                    "tweet_count": 1218022,
-                    "listed_count": 28383,
+                    "tweet_count": 1218259,
+                    "listed_count": 28378,
                     "like_count": 255,
-                    "media_count": 1040197
+                    "media_count": 1040202
                 }
             },
             {
@@ -917,12 +917,12 @@
                 "id": "38647512",
                 "username": "IndianExpress",
                 "public_metrics": {
-                    "followers_count": 4295588,
+                    "followers_count": 4296098,
                     "following_count": 292,
-                    "tweet_count": 1082167,
-                    "listed_count": 6742,
+                    "tweet_count": 1082654,
+                    "listed_count": 6738,
                     "like_count": 181,
-                    "media_count": 143430
+                    "media_count": 143476
                 }
             },
             {
@@ -930,12 +930,12 @@
                 "id": "1994321",
                 "username": "FRANCE24",
                 "public_metrics": {
-                    "followers_count": 4285318,
+                    "followers_count": 4286158,
                     "following_count": 438,
-                    "tweet_count": 404642,
-                    "listed_count": 13017,
+                    "tweet_count": 404741,
+                    "listed_count": 13010,
                     "like_count": 1235,
-                    "media_count": 194088
+                    "media_count": 194162
                 }
             },
             {
@@ -943,12 +943,12 @@
                 "id": "33989170",
                 "username": "LANACION",
                 "public_metrics": {
-                    "followers_count": 4182649,
+                    "followers_count": 4183341,
                     "following_count": 231,
-                    "tweet_count": 543657,
-                    "listed_count": 10992,
+                    "tweet_count": 544000,
+                    "listed_count": 10987,
                     "like_count": 476,
-                    "media_count": 378836
+                    "media_count": 379125
                 }
             },
             {
@@ -956,12 +956,12 @@
                 "id": "169480493",
                 "username": "nikkei",
                 "public_metrics": {
-                    "followers_count": 4116747,
+                    "followers_count": 4119153,
                     "following_count": 38,
-                    "tweet_count": 466220,
-                    "listed_count": 45430,
+                    "tweet_count": 466710,
+                    "listed_count": 45429,
                     "like_count": 0,
-                    "media_count": 15577
+                    "media_count": 15612
                 }
             },
             {
@@ -969,12 +969,12 @@
                 "id": "20562637",
                 "username": "BusinessInsider",
                 "public_metrics": {
-                    "followers_count": 4101823,
-                    "following_count": 402,
-                    "tweet_count": 773941,
-                    "listed_count": 35142,
-                    "like_count": 2136,
-                    "media_count": 356398
+                    "followers_count": 4101933,
+                    "following_count": 403,
+                    "tweet_count": 774053,
+                    "listed_count": 35131,
+                    "like_count": 2135,
+                    "media_count": 356436
                 }
             },
             {
@@ -982,11 +982,11 @@
                 "id": "7744592",
                 "username": "TODAYshow",
                 "public_metrics": {
-                    "followers_count": 4021265,
+                    "followers_count": 4021230,
                     "following_count": 7139,
-                    "tweet_count": 265962,
-                    "listed_count": 16766,
-                    "like_count": 10615,
+                    "tweet_count": 266042,
+                    "listed_count": 16762,
+                    "like_count": 10614,
                     "media_count": 101939
                 }
             },
@@ -995,12 +995,12 @@
                 "id": "27708897",
                 "username": "Reforma",
                 "public_metrics": {
-                    "followers_count": 3933022,
+                    "followers_count": 3933430,
                     "following_count": 143,
-                    "tweet_count": 590880,
-                    "listed_count": 12456,
+                    "tweet_count": 591219,
+                    "listed_count": 12455,
                     "like_count": 475,
-                    "media_count": 123936
+                    "media_count": 124020
                 }
             },
             {
@@ -1008,12 +1008,12 @@
                 "id": "16664681",
                 "username": "latimes",
                 "public_metrics": {
-                    "followers_count": 3842992,
+                    "followers_count": 3842865,
                     "following_count": 6371,
-                    "tweet_count": 562190,
-                    "listed_count": 34477,
+                    "tweet_count": 562385,
+                    "listed_count": 34474,
                     "like_count": 3681,
-                    "media_count": 97526
+                    "media_count": 97536
                 }
             },
             {
@@ -1021,12 +1021,12 @@
                 "id": "330826792",
                 "username": "rapplerdotcom",
                 "public_metrics": {
-                    "followers_count": 3777888,
+                    "followers_count": 3778690,
                     "following_count": 417,
-                    "tweet_count": 1105560,
+                    "tweet_count": 1105852,
                     "listed_count": 4873,
                     "like_count": 7700,
-                    "media_count": 272114
+                    "media_count": 272189
                 }
             },
             {
@@ -1034,11 +1034,11 @@
                 "id": "6433472",
                 "username": "CBCNews",
                 "public_metrics": {
-                    "followers_count": 3746290,
+                    "followers_count": 3748658,
                     "following_count": 1192,
-                    "tweet_count": 279561,
-                    "listed_count": 15243,
-                    "like_count": 5154,
+                    "tweet_count": 279569,
+                    "listed_count": 15239,
+                    "like_count": 5152,
                     "media_count": 95477
                 }
             },
@@ -1047,12 +1047,12 @@
                 "id": "8350912",
                 "username": "Le_Figaro",
                 "public_metrics": {
-                    "followers_count": 3740374,
+                    "followers_count": 3740676,
                     "following_count": 569,
-                    "tweet_count": 780448,
+                    "tweet_count": 780641,
                     "listed_count": 17189,
-                    "like_count": 6433,
-                    "media_count": 124862
+                    "like_count": 6434,
+                    "media_count": 124990
                 }
             },
             {
@@ -1060,12 +1060,12 @@
                 "id": "204245399",
                 "username": "nhk_news",
                 "public_metrics": {
-                    "followers_count": 3662274,
+                    "followers_count": 3662965,
                     "following_count": 21,
-                    "tweet_count": 705941,
-                    "listed_count": 66721,
+                    "tweet_count": 706301,
+                    "listed_count": 66722,
                     "like_count": 3,
-                    "media_count": 25098
+                    "media_count": 25104
                 }
             },
             {
@@ -1073,12 +1073,12 @@
                 "id": "18935802",
                 "username": "repubblica",
                 "public_metrics": {
-                    "followers_count": 3643822,
+                    "followers_count": 3644041,
                     "following_count": 404,
-                    "tweet_count": 1054789,
-                    "listed_count": 12150,
+                    "tweet_count": 1054988,
+                    "listed_count": 12147,
                     "like_count": 438,
-                    "media_count": 53925
+                    "media_count": 53934
                 }
             },
             {
@@ -1086,12 +1086,12 @@
                 "id": "22650211",
                 "username": "GMA",
                 "public_metrics": {
-                    "followers_count": 3635837,
+                    "followers_count": 3635812,
                     "following_count": 2329,
-                    "tweet_count": 353191,
-                    "listed_count": 14513,
+                    "tweet_count": 353210,
+                    "listed_count": 14515,
                     "like_count": 6772,
-                    "media_count": 179431
+                    "media_count": 179440
                 }
             },
             {
@@ -1099,12 +1099,12 @@
                 "id": "8105922",
                 "username": "clarincom",
                 "public_metrics": {
-                    "followers_count": 3585393,
+                    "followers_count": 3585725,
                     "following_count": 139,
-                    "tweet_count": 670060,
-                    "listed_count": 11548,
+                    "tweet_count": 670502,
+                    "listed_count": 11543,
                     "like_count": 528,
-                    "media_count": 226316
+                    "media_count": 226430
                 }
             },
             {
@@ -1112,12 +1112,12 @@
                 "id": "2884771",
                 "username": "Newsweek",
                 "public_metrics": {
-                    "followers_count": 3522744,
+                    "followers_count": 3522966,
                     "following_count": 587,
-                    "tweet_count": 390464,
-                    "listed_count": 35670,
+                    "tweet_count": 390756,
+                    "listed_count": 35674,
                     "like_count": 2432,
-                    "media_count": 178396
+                    "media_count": 178402
                 }
             },
             {
@@ -1125,12 +1125,12 @@
                 "id": "16973333",
                 "username": "Independent",
                 "public_metrics": {
-                    "followers_count": 3512726,
+                    "followers_count": 3512521,
                     "following_count": 464,
-                    "tweet_count": 1527329,
-                    "listed_count": 25064,
+                    "tweet_count": 1528358,
+                    "listed_count": 25057,
                     "like_count": 122,
-                    "media_count": 280711
+                    "media_count": 281527
                 }
             },
             {
@@ -1138,10 +1138,10 @@
                 "id": "68440549",
                 "username": "libe",
                 "public_metrics": {
-                    "followers_count": 3493697,
-                    "following_count": 274,
-                    "tweet_count": 327003,
-                    "listed_count": 16337,
+                    "followers_count": 3493407,
+                    "following_count": 273,
+                    "tweet_count": 327002,
+                    "listed_count": 16335,
                     "like_count": 2328,
                     "media_count": 107013
                 }
@@ -1151,12 +1151,12 @@
                 "id": "275686563",
                 "username": "verge",
                 "public_metrics": {
-                    "followers_count": 3468423,
+                    "followers_count": 3468300,
                     "following_count": 179,
-                    "tweet_count": 244515,
-                    "listed_count": 35959,
+                    "tweet_count": 244569,
+                    "listed_count": 35951,
                     "like_count": 1355,
-                    "media_count": 174229
+                    "media_count": 174234
                 }
             },
             {
@@ -1164,10 +1164,10 @@
                 "id": "25170188",
                 "username": "bonappetit",
                 "public_metrics": {
-                    "followers_count": 3442438,
+                    "followers_count": 3442405,
                     "following_count": 280,
-                    "tweet_count": 86959,
-                    "listed_count": 10967,
+                    "tweet_count": 86961,
+                    "listed_count": 10964,
                     "like_count": 4538,
                     "media_count": 38656
                 }
@@ -1177,12 +1177,12 @@
                 "id": "17446621",
                 "username": "THR",
                 "public_metrics": {
-                    "followers_count": 3422357,
-                    "following_count": 7642,
-                    "tweet_count": 550781,
-                    "listed_count": 20944,
+                    "followers_count": 3423954,
+                    "following_count": 7654,
+                    "tweet_count": 551031,
+                    "listed_count": 20929,
                     "like_count": 1497,
-                    "media_count": 190632
+                    "media_count": 190668
                 }
             },
             {
@@ -1190,12 +1190,12 @@
                 "id": "17469289",
                 "username": "nypost",
                 "public_metrics": {
-                    "followers_count": 3414975,
+                    "followers_count": 3418091,
                     "following_count": 10184,
-                    "tweet_count": 745046,
-                    "listed_count": 23247,
+                    "tweet_count": 745793,
+                    "listed_count": 23245,
                     "like_count": 1998,
-                    "media_count": 600059
+                    "media_count": 600803
                 }
             },
             {
@@ -1203,12 +1203,12 @@
                 "id": "38142665",
                 "username": "le_Parisien",
                 "public_metrics": {
-                    "followers_count": 3404283,
-                    "following_count": 368,
-                    "tweet_count": 636997,
-                    "listed_count": 10643,
-                    "like_count": 708,
-                    "media_count": 191095
+                    "followers_count": 3404847,
+                    "following_count": 367,
+                    "tweet_count": 637533,
+                    "listed_count": 10644,
+                    "like_count": 709,
+                    "media_count": 191573
                 }
             },
             {
@@ -1216,12 +1216,12 @@
                 "id": "16343974",
                 "username": "Telegraph",
                 "public_metrics": {
-                    "followers_count": 3401213,
-                    "following_count": 854,
-                    "tweet_count": 625276,
-                    "listed_count": 21932,
-                    "like_count": 6702,
-                    "media_count": 127408
+                    "followers_count": 3401475,
+                    "following_count": 855,
+                    "tweet_count": 625623,
+                    "listed_count": 21936,
+                    "like_count": 6737,
+                    "media_count": 127521
                 }
             },
             {
@@ -1229,12 +1229,12 @@
                 "id": "20545835",
                 "username": "NEWSMAX",
                 "public_metrics": {
-                    "followers_count": 3399804,
+                    "followers_count": 3401974,
                     "following_count": 788,
-                    "tweet_count": 234755,
+                    "tweet_count": 235037,
                     "listed_count": 8092,
-                    "like_count": 7238,
-                    "media_count": 66808
+                    "like_count": 7249,
+                    "media_count": 66894
                 }
             },
             {
@@ -1242,12 +1242,12 @@
                 "id": "23970102",
                 "username": "BillOReilly",
                 "public_metrics": {
-                    "followers_count": 3396974,
+                    "followers_count": 3397224,
                     "following_count": 122,
-                    "tweet_count": 21850,
+                    "tweet_count": 21861,
                     "listed_count": 10444,
                     "like_count": 450,
-                    "media_count": 1801
+                    "media_count": 1806
                 }
             },
             {
@@ -1255,18 +1255,15 @@
                 "id": "1333467482",
                 "username": "CoinDesk",
                 "public_metrics": {
-                    "followers_count": 3362907,
+                    "followers_count": 3364500,
                     "following_count": 1687,
-                    "tweet_count": 134660,
-                    "listed_count": 24936,
-                    "like_count": 8581,
-                    "media_count": 32112
+                    "tweet_count": 134690,
+                    "listed_count": 24944,
+                    "like_count": 8585,
+                    "media_count": 32117
                 }
             },
             {
-                "name": "RT",
-                "id": "64643056",
-                "username": "RT_com",
                 "withheld": {
                     "country_codes": [
                         "AT",
@@ -1299,13 +1296,16 @@
                         "SK"
                     ]
                 },
+                "name": "RT",
+                "id": "64643056",
+                "username": "RT_com",
                 "public_metrics": {
-                    "followers_count": 3271462,
-                    "following_count": 858,
-                    "tweet_count": 513162,
-                    "listed_count": 21703,
+                    "followers_count": 3271935,
+                    "following_count": 861,
+                    "tweet_count": 513627,
+                    "listed_count": 21701,
                     "like_count": 2274,
-                    "media_count": 281425
+                    "media_count": 281808
                 }
             },
             {
@@ -1313,11 +1313,11 @@
                 "id": "24190981",
                 "username": "TeenVogue",
                 "public_metrics": {
-                    "followers_count": 3253724,
+                    "followers_count": 3253661,
                     "following_count": 2442,
-                    "tweet_count": 179410,
-                    "listed_count": 9685,
-                    "like_count": 19229,
+                    "tweet_count": 179489,
+                    "listed_count": 9682,
+                    "like_count": 19228,
                     "media_count": 34058
                 }
             },
@@ -1326,10 +1326,10 @@
                 "id": "2834511",
                 "username": "derspiegel",
                 "public_metrics": {
-                    "followers_count": 3252917,
+                    "followers_count": 3254607,
                     "following_count": 344,
-                    "tweet_count": 323059,
-                    "listed_count": 9425,
+                    "tweet_count": 323185,
+                    "listed_count": 9424,
                     "like_count": 3289,
                     "media_count": 48139
                 }

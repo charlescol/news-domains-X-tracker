@@ -1,0 +1,1307 @@
+{
+    "timestamp": "20250812_163442",
+    "response": {
+        "data": [
+            {
+                "id": "14026372",
+                "username": "rrstar",
+                "public_metrics": {
+                    "followers_count": 13094,
+                    "following_count": 1284,
+                    "tweet_count": 79394,
+                    "listed_count": 311,
+                    "like_count": 1076,
+                    "media_count": 9822
+                },
+                "name": "Rockford Register Star"
+            },
+            {
+                "id": "44212632",
+                "username": "VVDailyPress",
+                "public_metrics": {
+                    "followers_count": 13093,
+                    "following_count": 3250,
+                    "tweet_count": 52869,
+                    "listed_count": 204,
+                    "like_count": 411,
+                    "media_count": 3935
+                },
+                "name": "Daily Press"
+            },
+            {
+                "id": "50426819",
+                "username": "CapeGazette",
+                "public_metrics": {
+                    "followers_count": 13071,
+                    "following_count": 327,
+                    "tweet_count": 70491,
+                    "listed_count": 233,
+                    "like_count": 4933,
+                    "media_count": 1451
+                },
+                "name": "Cape Gazette"
+            },
+            {
+                "id": "106230747",
+                "username": "CCCNewsroom",
+                "public_metrics": {
+                    "followers_count": 13060,
+                    "following_count": 91,
+                    "tweet_count": 10774,
+                    "listed_count": 164,
+                    "like_count": 74,
+                    "media_count": 3298
+                },
+                "name": "Cape Cod Chronicle"
+            },
+            {
+                "id": "16675413",
+                "username": "eugeneweekly",
+                "public_metrics": {
+                    "followers_count": 13058,
+                    "following_count": 1151,
+                    "tweet_count": 8328,
+                    "listed_count": 371,
+                    "like_count": 1834,
+                    "media_count": 2266
+                },
+                "name": "Eugene Weekly"
+            },
+            {
+                "id": "18078590",
+                "username": "orf_at",
+                "public_metrics": {
+                    "followers_count": 13021,
+                    "following_count": 6,
+                    "tweet_count": 183464,
+                    "listed_count": 286,
+                    "like_count": 0,
+                    "media_count": 7936
+                },
+                "name": "orf_at"
+            },
+            {
+                "id": "3988213816",
+                "username": "injusticewatch",
+                "public_metrics": {
+                    "followers_count": 12986,
+                    "following_count": 964,
+                    "tweet_count": 8265,
+                    "listed_count": 221,
+                    "like_count": 2019,
+                    "media_count": 630
+                },
+                "name": "Injustice Watch"
+            },
+            {
+                "id": "14358491",
+                "username": "BmtEnterprise",
+                "public_metrics": {
+                    "followers_count": 12960,
+                    "following_count": 501,
+                    "tweet_count": 78649,
+                    "listed_count": 308,
+                    "like_count": 1670,
+                    "media_count": 12342
+                },
+                "name": "Beaumont Enterprise"
+            },
+            {
+                "id": "52887365",
+                "username": "TacomaWeekly",
+                "public_metrics": {
+                    "followers_count": 12946,
+                    "following_count": 254,
+                    "tweet_count": 21669,
+                    "listed_count": 323,
+                    "like_count": 671,
+                    "media_count": 144
+                },
+                "name": "Tacoma Weekly"
+            },
+            {
+                "id": "89485180",
+                "username": "fpmag",
+                "public_metrics": {
+                    "followers_count": 12877,
+                    "following_count": 5603,
+                    "tweet_count": 24059,
+                    "listed_count": 406,
+                    "like_count": 219,
+                    "media_count": 10010
+                },
+                "name": "FrontPage Magazine"
+            },
+            {
+                "id": "106776691",
+                "username": "HighPlainsJrnl",
+                "public_metrics": {
+                    "followers_count": 12839,
+                    "following_count": 1350,
+                    "tweet_count": 24401,
+                    "listed_count": 290,
+                    "like_count": 442,
+                    "media_count": 3670
+                },
+                "name": "High Plains Journal"
+            },
+            {
+                "id": "20267772",
+                "username": "ElkhartTruth",
+                "public_metrics": {
+                    "followers_count": 12792,
+                    "following_count": 387,
+                    "tweet_count": 67169,
+                    "listed_count": 271,
+                    "like_count": 674,
+                    "media_count": 8874
+                },
+                "name": "The Elkhart Truth"
+            },
+            {
+                "id": "7542802",
+                "username": "southcoasttoday",
+                "public_metrics": {
+                    "followers_count": 12783,
+                    "following_count": 732,
+                    "tweet_count": 69530,
+                    "listed_count": 188,
+                    "like_count": 412,
+                    "media_count": 14246
+                },
+                "name": "SouthCoastToday"
+            },
+            {
+                "id": "519682873",
+                "username": "MyDelmarvaNow",
+                "public_metrics": {
+                    "followers_count": 12780,
+                    "following_count": 720,
+                    "tweet_count": 83825,
+                    "listed_count": 264,
+                    "like_count": 900,
+                    "media_count": 6190
+                },
+                "name": "Delmarva Now"
+            },
+            {
+                "id": "18018782",
+                "username": "afronews",
+                "public_metrics": {
+                    "followers_count": 12740,
+                    "following_count": 1246,
+                    "tweet_count": 56655,
+                    "listed_count": 388,
+                    "like_count": 2274,
+                    "media_count": 17583
+                },
+                "name": "AFRO News afro.com"
+            },
+            {
+                "id": "1100156058536947713",
+                "username": "prismreports",
+                "public_metrics": {
+                    "followers_count": 12730,
+                    "following_count": 1084,
+                    "tweet_count": 10404,
+                    "listed_count": 184,
+                    "like_count": 5673,
+                    "media_count": 464
+                },
+                "name": "Prism"
+            },
+            {
+                "id": "17769598",
+                "username": "TheHourNews",
+                "public_metrics": {
+                    "followers_count": 12686,
+                    "following_count": 1126,
+                    "tweet_count": 159406,
+                    "listed_count": 322,
+                    "like_count": 21,
+                    "media_count": 686
+                },
+                "name": "The Norwalk Hour"
+            },
+            {
+                "id": "17947097",
+                "username": "EHStar",
+                "public_metrics": {
+                    "followers_count": 12682,
+                    "following_count": 997,
+                    "tweet_count": 8095,
+                    "listed_count": 166,
+                    "like_count": 699,
+                    "media_count": 2103
+                },
+                "name": "East Hampton Star"
+            },
+            {
+                "id": "274559013",
+                "username": "slatest",
+                "public_metrics": {
+                    "followers_count": 12634,
+                    "following_count": 127,
+                    "tweet_count": 8353,
+                    "listed_count": 472,
+                    "like_count": 179,
+                    "media_count": 2766
+                },
+                "name": "The Slatest"
+            },
+            {
+                "id": "18767833",
+                "username": "wrblnews3",
+                "public_metrics": {
+                    "followers_count": 12595,
+                    "following_count": 699,
+                    "tweet_count": 121391,
+                    "listed_count": 312,
+                    "like_count": 1010,
+                    "media_count": 15760
+                },
+                "name": "WRBL News 3"
+            },
+            {
+                "id": "16233017",
+                "username": "theledger",
+                "public_metrics": {
+                    "followers_count": 12587,
+                    "following_count": 426,
+                    "tweet_count": 123947,
+                    "listed_count": 340,
+                    "like_count": 2534,
+                    "media_count": 10012
+                },
+                "name": "The Ledger"
+            },
+            {
+                "id": "16470996",
+                "username": "rgvfox",
+                "public_metrics": {
+                    "followers_count": 12593,
+                    "following_count": 303,
+                    "tweet_count": 34860,
+                    "listed_count": 176,
+                    "like_count": 319,
+                    "media_count": 9276
+                },
+                "name": "Fox News Rio Grande Valley"
+            },
+            {
+                "id": "80747858",
+                "username": "TimesDaily",
+                "public_metrics": {
+                    "followers_count": 12570,
+                    "following_count": 298,
+                    "tweet_count": 67050,
+                    "listed_count": 209,
+                    "like_count": 76,
+                    "media_count": 436
+                },
+                "name": "TimesDaily Newspaper"
+            },
+            {
+                "id": "17872744",
+                "username": "livedesk",
+                "public_metrics": {
+                    "followers_count": 12549,
+                    "following_count": 148,
+                    "tweet_count": 959,
+                    "listed_count": 573,
+                    "like_count": 1,
+                    "media_count": 0
+                },
+                "name": "livedesk"
+            },
+            {
+                "id": "7227042",
+                "username": "GoUpstate",
+                "public_metrics": {
+                    "followers_count": 12538,
+                    "following_count": 355,
+                    "tweet_count": 102964,
+                    "listed_count": 287,
+                    "like_count": 799,
+                    "media_count": 11134
+                },
+                "name": "Herald-Journal"
+            },
+            {
+                "id": "786603006187843584",
+                "username": "RCInvestigates",
+                "public_metrics": {
+                    "followers_count": 12495,
+                    "following_count": 582,
+                    "tweet_count": 8268,
+                    "listed_count": 226,
+                    "like_count": 208,
+                    "media_count": 885
+                },
+                "name": "RealClearInvestigations"
+            },
+            {
+                "id": "17761820",
+                "username": "azbiz",
+                "public_metrics": {
+                    "followers_count": 12450,
+                    "following_count": 741,
+                    "tweet_count": 5049,
+                    "listed_count": 315,
+                    "like_count": 129,
+                    "media_count": 313
+                },
+                "name": "Inside Tucson Business"
+            },
+            {
+                "id": "138450130",
+                "username": "forsythnews",
+                "public_metrics": {
+                    "followers_count": 12448,
+                    "following_count": 157,
+                    "tweet_count": 8764,
+                    "listed_count": 111,
+                    "like_count": 368,
+                    "media_count": 1854
+                },
+                "name": "Forsyth County News"
+            },
+            {
+                "id": "15651396",
+                "username": "kcautv",
+                "public_metrics": {
+                    "followers_count": 12366,
+                    "following_count": 646,
+                    "tweet_count": 98778,
+                    "listed_count": 217,
+                    "like_count": 12335,
+                    "media_count": 18406
+                },
+                "name": "KCAU 9 News"
+            },
+            {
+                "id": "17644000",
+                "username": "capitalpress",
+                "public_metrics": {
+                    "followers_count": 12340,
+                    "following_count": 3726,
+                    "tweet_count": 49431,
+                    "listed_count": 545,
+                    "like_count": 81,
+                    "media_count": 6609
+                },
+                "name": "Capital Press"
+            },
+            {
+                "id": "17074295",
+                "username": "HutchNews",
+                "public_metrics": {
+                    "followers_count": 12315,
+                    "following_count": 422,
+                    "tweet_count": 88717,
+                    "listed_count": 245,
+                    "like_count": 364,
+                    "media_count": 3620
+                },
+                "name": "HutchNews"
+            },
+            {
+                "id": "18218604",
+                "username": "wcfcourier",
+                "public_metrics": {
+                    "followers_count": 12294,
+                    "following_count": 294,
+                    "tweet_count": 172246,
+                    "listed_count": 321,
+                    "like_count": 219,
+                    "media_count": 21962
+                },
+                "name": "The Courier"
+            },
+            {
+                "id": "38256654",
+                "username": "hudson_reporter",
+                "public_metrics": {
+                    "followers_count": 12242,
+                    "following_count": 1086,
+                    "tweet_count": 9605,
+                    "listed_count": 262,
+                    "like_count": 1219,
+                    "media_count": 5279
+                },
+                "name": "\ud83d\udcf0Hudson Reporter\ud83d\uddde"
+            },
+            {
+                "id": "267262609",
+                "username": "JSunNews",
+                "public_metrics": {
+                    "followers_count": 12197,
+                    "following_count": 82,
+                    "tweet_count": 84807,
+                    "listed_count": 190,
+                    "like_count": 87,
+                    "media_count": 1695
+                },
+                "name": "The Jackson Sun"
+            },
+            {
+                "id": "143648809",
+                "username": "uwogazette",
+                "public_metrics": {
+                    "followers_count": 12192,
+                    "following_count": 206,
+                    "tweet_count": 12826,
+                    "listed_count": 229,
+                    "like_count": 1179,
+                    "media_count": 2882
+                },
+                "name": "Western Gazette"
+            },
+            {
+                "id": "24755505",
+                "username": "JuneauEmpire",
+                "public_metrics": {
+                    "followers_count": 12192,
+                    "following_count": 371,
+                    "tweet_count": 29594,
+                    "listed_count": 384,
+                    "like_count": 333,
+                    "media_count": 6096
+                },
+                "name": "Juneau Empire"
+            },
+            {
+                "id": "28522270",
+                "username": "AlexTimesNews",
+                "public_metrics": {
+                    "followers_count": 12171,
+                    "following_count": 1552,
+                    "tweet_count": 5703,
+                    "listed_count": 281,
+                    "like_count": 405,
+                    "media_count": 448
+                },
+                "name": "Alexandria Times"
+            },
+            {
+                "id": "19414861",
+                "username": "WhittierNews",
+                "public_metrics": {
+                    "followers_count": 12148,
+                    "following_count": 196,
+                    "tweet_count": 201395,
+                    "listed_count": 260,
+                    "like_count": 1978,
+                    "media_count": 28259
+                },
+                "name": "Whittier Daily News"
+            },
+            {
+                "id": "455039820",
+                "username": "DemocracyPost",
+                "public_metrics": {
+                    "followers_count": 12082,
+                    "following_count": 1531,
+                    "tweet_count": 8714,
+                    "listed_count": 392,
+                    "like_count": 90,
+                    "media_count": 494
+                },
+                "name": "DemocracyPost"
+            },
+            {
+                "id": "192788396",
+                "username": "STGnews",
+                "public_metrics": {
+                    "followers_count": 12073,
+                    "following_count": 2009,
+                    "tweet_count": 62192,
+                    "listed_count": 294,
+                    "like_count": 74,
+                    "media_count": 29136
+                },
+                "name": "St. George News"
+            },
+            {
+                "id": "58490366",
+                "username": "MySuburbanLife",
+                "public_metrics": {
+                    "followers_count": 12010,
+                    "following_count": 1151,
+                    "tweet_count": 53023,
+                    "listed_count": 227,
+                    "like_count": 23,
+                    "media_count": 9176
+                },
+                "name": "Suburban Life - Shaw Local"
+            },
+            {
+                "id": "21057999",
+                "username": "TimesHeraldPA",
+                "public_metrics": {
+                    "followers_count": 11993,
+                    "following_count": 3023,
+                    "tweet_count": 155677,
+                    "listed_count": 356,
+                    "like_count": 134,
+                    "media_count": 17519
+                },
+                "name": "The Times Herald"
+            },
+            {
+                "id": "21332950",
+                "username": "KNPRnews",
+                "public_metrics": {
+                    "followers_count": 11981,
+                    "following_count": 3512,
+                    "tweet_count": 33654,
+                    "listed_count": 0,
+                    "like_count": 1338,
+                    "media_count": 2036
+                },
+                "name": "Nevada Public Radio"
+            },
+            {
+                "id": "46375072",
+                "username": "staugrecord",
+                "public_metrics": {
+                    "followers_count": 11959,
+                    "following_count": 422,
+                    "tweet_count": 50690,
+                    "listed_count": 310,
+                    "like_count": 425,
+                    "media_count": 5827
+                },
+                "name": "St. Augustine Record"
+            },
+            {
+                "id": "33936298",
+                "username": "WTEnews",
+                "public_metrics": {
+                    "followers_count": 11968,
+                    "following_count": 408,
+                    "tweet_count": 20060,
+                    "listed_count": 377,
+                    "like_count": 432,
+                    "media_count": 12493
+                },
+                "name": "Wyoming Tribune Eagle"
+            },
+            {
+                "id": "17889684",
+                "username": "Tylerpaper",
+                "public_metrics": {
+                    "followers_count": 11919,
+                    "following_count": 646,
+                    "tweet_count": 53214,
+                    "listed_count": 291,
+                    "like_count": 2734,
+                    "media_count": 17001
+                },
+                "name": "Tylerpaper"
+            },
+            {
+                "id": "15670006",
+                "username": "bellevillenewsd",
+                "public_metrics": {
+                    "followers_count": 11900,
+                    "following_count": 698,
+                    "tweet_count": 162955,
+                    "listed_count": 482,
+                    "like_count": 605,
+                    "media_count": 12562
+                },
+                "name": "BND.com"
+            },
+            {
+                "id": "1059527717769658372",
+                "username": "strikewave",
+                "public_metrics": {
+                    "followers_count": 11878,
+                    "following_count": 855,
+                    "tweet_count": 6179,
+                    "listed_count": 172,
+                    "like_count": 1571,
+                    "media_count": 167
+                },
+                "name": "Strikewave"
+            },
+            {
+                "id": "121600219",
+                "username": "TheMalibuTimes",
+                "public_metrics": {
+                    "followers_count": 11783,
+                    "following_count": 696,
+                    "tweet_count": 12781,
+                    "listed_count": 247,
+                    "like_count": 1200,
+                    "media_count": 1567
+                },
+                "name": "The Malibu Times"
+            },
+            {
+                "id": "68928118",
+                "username": "TucsonSentinel",
+                "public_metrics": {
+                    "followers_count": 11779,
+                    "following_count": 1989,
+                    "tweet_count": 29585,
+                    "listed_count": 337,
+                    "like_count": 275,
+                    "media_count": 3930
+                },
+                "name": "Tucson Sentinel"
+            },
+            {
+                "id": "710776176843866112",
+                "username": "RSF_fr",
+                "public_metrics": {
+                    "followers_count": 11715,
+                    "following_count": 58,
+                    "tweet_count": 8170,
+                    "listed_count": 200,
+                    "like_count": 620,
+                    "media_count": 2545
+                },
+                "name": "RSF en fran\u00e7ais"
+            },
+            {
+                "id": "23782016",
+                "username": "timesnewsonline",
+                "public_metrics": {
+                    "followers_count": 11711,
+                    "following_count": 135,
+                    "tweet_count": 82889,
+                    "listed_count": 219,
+                    "like_count": 685,
+                    "media_count": 3901
+                },
+                "name": "Times-News Online"
+            },
+            {
+                "id": "18917501",
+                "username": "weeklyalibi",
+                "public_metrics": {
+                    "followers_count": 11694,
+                    "following_count": 3277,
+                    "tweet_count": 14399,
+                    "listed_count": 278,
+                    "like_count": 643,
+                    "media_count": 565
+                },
+                "name": "Weekly Alibi"
+            },
+            {
+                "id": "15224302",
+                "username": "PB_News",
+                "public_metrics": {
+                    "followers_count": 11678,
+                    "following_count": 64,
+                    "tweet_count": 109368,
+                    "listed_count": 306,
+                    "like_count": 271,
+                    "media_count": 8464
+                },
+                "name": "Post Bulletin"
+            },
+            {
+                "id": "15751559",
+                "username": "gadsdentimes",
+                "public_metrics": {
+                    "followers_count": 11652,
+                    "following_count": 4680,
+                    "tweet_count": 58263,
+                    "listed_count": 192,
+                    "like_count": 39,
+                    "media_count": 2710
+                },
+                "name": "The Gadsden Times"
+            },
+            {
+                "id": "90725320",
+                "username": "E2Wire",
+                "public_metrics": {
+                    "followers_count": 11630,
+                    "following_count": 10325,
+                    "tweet_count": 13781,
+                    "listed_count": 580,
+                    "like_count": 0,
+                    "media_count": 1
+                },
+                "name": "E2Wire"
+            },
+            {
+                "id": "320961515",
+                "username": "Lakota_Timez",
+                "public_metrics": {
+                    "followers_count": 11597,
+                    "following_count": 26,
+                    "tweet_count": 25188,
+                    "listed_count": 169,
+                    "like_count": 0,
+                    "media_count": 39
+                },
+                "name": "Lakota Country Times"
+            },
+            {
+                "id": "10191572",
+                "username": "theindependent",
+                "public_metrics": {
+                    "followers_count": 11596,
+                    "following_count": 1735,
+                    "tweet_count": 85647,
+                    "listed_count": 275,
+                    "like_count": 236,
+                    "media_count": 13415
+                },
+                "name": "The Grand Island Independent"
+            },
+            {
+                "id": "293012979",
+                "username": "latimespolitics",
+                "public_metrics": {
+                    "followers_count": 11588,
+                    "following_count": 513,
+                    "tweet_count": 42995,
+                    "listed_count": 565,
+                    "like_count": 175,
+                    "media_count": 2473
+                },
+                "name": "L.A. Times Politics"
+            },
+            {
+                "id": "249279773",
+                "username": "WaukeshaFreeman",
+                "public_metrics": {
+                    "followers_count": 11614,
+                    "following_count": 1586,
+                    "tweet_count": 19924,
+                    "listed_count": 167,
+                    "like_count": 278,
+                    "media_count": 1819
+                },
+                "name": "Waukesha Freeman"
+            },
+            {
+                "id": "63363893",
+                "username": "QueensChronicle",
+                "public_metrics": {
+                    "followers_count": 11527,
+                    "following_count": 1167,
+                    "tweet_count": 21823,
+                    "listed_count": 346,
+                    "like_count": 142,
+                    "media_count": 1479
+                },
+                "name": "Queens Chronicle"
+            },
+            {
+                "id": "75375556",
+                "username": "CAFarmBureau",
+                "public_metrics": {
+                    "followers_count": 11528,
+                    "following_count": 729,
+                    "tweet_count": 8300,
+                    "listed_count": 300,
+                    "like_count": 4003,
+                    "media_count": 5106
+                },
+                "name": "California Farm Bureau"
+            },
+            {
+                "id": "1303712230366760971",
+                "username": "VotebeatUS",
+                "public_metrics": {
+                    "followers_count": 11511,
+                    "following_count": 701,
+                    "tweet_count": 4554,
+                    "listed_count": 239,
+                    "like_count": 1984,
+                    "media_count": 207
+                },
+                "name": "Votebeat"
+            },
+            {
+                "id": "136340465",
+                "username": "SVAcorn",
+                "public_metrics": {
+                    "followers_count": 11494,
+                    "following_count": 443,
+                    "tweet_count": 9421,
+                    "listed_count": 121,
+                    "like_count": 918,
+                    "media_count": 1547
+                },
+                "name": "Simi Valley Acorn"
+            },
+            {
+                "id": "497830254",
+                "username": "segodnya_online",
+                "public_metrics": {
+                    "followers_count": 11488,
+                    "following_count": 86,
+                    "tweet_count": 77072,
+                    "listed_count": 94,
+                    "like_count": 31,
+                    "media_count": 13561
+                },
+                "name": "\u0421\u0435\u0433\u043e\u0434\u043d\u044f"
+            },
+            {
+                "id": "22034448",
+                "username": "LeaderTelegram",
+                "public_metrics": {
+                    "followers_count": 11474,
+                    "following_count": 338,
+                    "tweet_count": 82748,
+                    "listed_count": 237,
+                    "like_count": 253,
+                    "media_count": 15687
+                },
+                "name": "Leader-Telegram"
+            },
+            {
+                "id": "78525505",
+                "username": "HartfordBiz",
+                "public_metrics": {
+                    "followers_count": 11432,
+                    "following_count": 872,
+                    "tweet_count": 56561,
+                    "listed_count": 356,
+                    "like_count": 979,
+                    "media_count": 4707
+                },
+                "name": "Hartford Business"
+            },
+            {
+                "id": "67374305",
+                "username": "TelegraphHerald",
+                "public_metrics": {
+                    "followers_count": 11411,
+                    "following_count": 393,
+                    "tweet_count": 142215,
+                    "listed_count": 239,
+                    "like_count": 70,
+                    "media_count": 50192
+                },
+                "name": "Telegraph Herald"
+            },
+            {
+                "id": "21004741",
+                "username": "NewarkAdvocate",
+                "public_metrics": {
+                    "followers_count": 11406,
+                    "following_count": 772,
+                    "tweet_count": 71776,
+                    "listed_count": 195,
+                    "like_count": 9,
+                    "media_count": 26998
+                },
+                "name": "NewarkAdvocate.com"
+            },
+            {
+                "id": "37381846",
+                "username": "GalvNews",
+                "public_metrics": {
+                    "followers_count": 11362,
+                    "following_count": 96,
+                    "tweet_count": 34036,
+                    "listed_count": 291,
+                    "like_count": 70,
+                    "media_count": 362
+                },
+                "name": "The Daily News"
+            },
+            {
+                "id": "89289264",
+                "username": "SMMirror",
+                "public_metrics": {
+                    "followers_count": 11321,
+                    "following_count": 654,
+                    "tweet_count": 16579,
+                    "listed_count": 227,
+                    "like_count": 668,
+                    "media_count": 4330
+                },
+                "name": "Santa Monica Mirror"
+            },
+            {
+                "id": "17369431",
+                "username": "rep_am",
+                "public_metrics": {
+                    "followers_count": 11302,
+                    "following_count": 451,
+                    "tweet_count": 179481,
+                    "listed_count": 313,
+                    "like_count": 14,
+                    "media_count": 72272
+                },
+                "name": "Republican American"
+            },
+            {
+                "id": "1047155363873734656",
+                "username": "SpotlightPA",
+                "public_metrics": {
+                    "followers_count": 11357,
+                    "following_count": 120,
+                    "tweet_count": 5653,
+                    "listed_count": 257,
+                    "like_count": 980,
+                    "media_count": 434
+                },
+                "name": "Spotlight PA"
+            },
+            {
+                "id": "16313096",
+                "username": "dothaneagle",
+                "public_metrics": {
+                    "followers_count": 11280,
+                    "following_count": 771,
+                    "tweet_count": 81113,
+                    "listed_count": 241,
+                    "like_count": 185,
+                    "media_count": 14747
+                },
+                "name": "Dothan Eagle"
+            },
+            {
+                "id": "16519670",
+                "username": "DurangoHerald",
+                "public_metrics": {
+                    "followers_count": 11256,
+                    "following_count": 432,
+                    "tweet_count": 57958,
+                    "listed_count": 322,
+                    "like_count": 345,
+                    "media_count": 11469
+                },
+                "name": "Durango Herald"
+            },
+            {
+                "id": "17141766",
+                "username": "reporterherald",
+                "public_metrics": {
+                    "followers_count": 11233,
+                    "following_count": 380,
+                    "tweet_count": 83683,
+                    "listed_count": 336,
+                    "like_count": 95,
+                    "media_count": 2447
+                },
+                "name": "Reporter-Herald"
+            },
+            {
+                "id": "24942387",
+                "username": "fwbusinesspress",
+                "public_metrics": {
+                    "followers_count": 11219,
+                    "following_count": 2134,
+                    "tweet_count": 19893,
+                    "listed_count": 263,
+                    "like_count": 628,
+                    "media_count": 2511
+                },
+                "name": "Fort Worth Business Press"
+            },
+            {
+                "id": "15770273",
+                "username": "GreeleyTribune",
+                "public_metrics": {
+                    "followers_count": 11216,
+                    "following_count": 576,
+                    "tweet_count": 83691,
+                    "listed_count": 369,
+                    "like_count": 217,
+                    "media_count": 14149
+                },
+                "name": "GreeleyTribune"
+            },
+            {
+                "id": "16514376",
+                "username": "yakima_herald",
+                "public_metrics": {
+                    "followers_count": 11181,
+                    "following_count": 307,
+                    "tweet_count": 52081,
+                    "listed_count": 302,
+                    "like_count": 204,
+                    "media_count": 831
+                },
+                "name": "Yakima Herald-Republic"
+            },
+            {
+                "id": "15688704",
+                "username": "journalnews",
+                "public_metrics": {
+                    "followers_count": 11151,
+                    "following_count": 1809,
+                    "tweet_count": 170582,
+                    "listed_count": 204,
+                    "like_count": 3491,
+                    "media_count": 58089
+                },
+                "name": "journalnews"
+            },
+            {
+                "id": "20106234",
+                "username": "ithacajournal",
+                "public_metrics": {
+                    "followers_count": 11146,
+                    "following_count": 347,
+                    "tweet_count": 92831,
+                    "listed_count": 482,
+                    "like_count": 113,
+                    "media_count": 8112
+                },
+                "name": "IthacaJournal"
+            },
+            {
+                "id": "7511312",
+                "username": "PoconoRecord",
+                "public_metrics": {
+                    "followers_count": 11140,
+                    "following_count": 739,
+                    "tweet_count": 70767,
+                    "listed_count": 275,
+                    "like_count": 2288,
+                    "media_count": 3992
+                },
+                "name": "Pocono Record"
+            },
+            {
+                "id": "29509437",
+                "username": "TahoeDailyTrib",
+                "public_metrics": {
+                    "followers_count": 11141,
+                    "following_count": 917,
+                    "tweet_count": 35571,
+                    "listed_count": 0,
+                    "like_count": 1351,
+                    "media_count": 195
+                },
+                "name": "Tahoe Daily Tribune"
+            },
+            {
+                "id": "24004213",
+                "username": "CSBizJournal",
+                "public_metrics": {
+                    "followers_count": 11111,
+                    "following_count": 1434,
+                    "tweet_count": 7463,
+                    "listed_count": 267,
+                    "like_count": 414,
+                    "media_count": 654
+                },
+                "name": "Colorado Springs Business Journal"
+            },
+            {
+                "id": "29539256",
+                "username": "NewsTribune",
+                "public_metrics": {
+                    "followers_count": 11109,
+                    "following_count": 1419,
+                    "tweet_count": 120678,
+                    "listed_count": 283,
+                    "like_count": 396,
+                    "media_count": 6873
+                },
+                "name": "Jefferson City News Tribune"
+            },
+            {
+                "id": "225833743",
+                "username": "IrishCathNews",
+                "public_metrics": {
+                    "followers_count": 11035,
+                    "following_count": 8,
+                    "tweet_count": 8580,
+                    "listed_count": 139,
+                    "like_count": 1661,
+                    "media_count": 1974
+                },
+                "name": "The Irish Catholic"
+            },
+            {
+                "id": "1330729881848729600",
+                "username": "KCDefender",
+                "public_metrics": {
+                    "followers_count": 10950,
+                    "following_count": 2376,
+                    "tweet_count": 1668,
+                    "listed_count": 74,
+                    "like_count": 3302,
+                    "media_count": 236
+                },
+                "name": "The Kansas City Defender"
+            },
+            {
+                "id": "17455392",
+                "username": "decaturdaily",
+                "public_metrics": {
+                    "followers_count": 10936,
+                    "following_count": 87,
+                    "tweet_count": 81408,
+                    "listed_count": 187,
+                    "like_count": 40,
+                    "media_count": 389
+                },
+                "name": "The Decatur Daily"
+            },
+            {
+                "id": "20732804",
+                "username": "MorningJournal",
+                "public_metrics": {
+                    "followers_count": 10937,
+                    "following_count": 1064,
+                    "tweet_count": 142048,
+                    "listed_count": 271,
+                    "like_count": 440,
+                    "media_count": 1365
+                },
+                "name": "The Morning Journal"
+            },
+            {
+                "id": "19777553",
+                "username": "HNNow",
+                "public_metrics": {
+                    "followers_count": 10897,
+                    "following_count": 640,
+                    "tweet_count": 84455,
+                    "listed_count": 175,
+                    "like_count": 938,
+                    "media_count": 1452
+                },
+                "name": "The Herald News"
+            },
+            {
+                "id": "147466292",
+                "username": "JN_Japanese",
+                "public_metrics": {
+                    "followers_count": 10878,
+                    "following_count": 20,
+                    "tweet_count": 5010,
+                    "listed_count": 319,
+                    "like_count": 271,
+                    "media_count": 988
+                },
+                "name": "The Japan News \u65e5\u672c\u8a9e"
+            },
+            {
+                "id": "717829799880691713",
+                "username": "apmreports",
+                "public_metrics": {
+                    "followers_count": 10864,
+                    "following_count": 2213,
+                    "tweet_count": 1824,
+                    "listed_count": 158,
+                    "like_count": 4067,
+                    "media_count": 319
+                },
+                "name": "APM Reports"
+            },
+            {
+                "id": "102446961",
+                "username": "Joliet_HN",
+                "public_metrics": {
+                    "followers_count": 10809,
+                    "following_count": 674,
+                    "tweet_count": 81156,
+                    "listed_count": 208,
+                    "like_count": 72,
+                    "media_count": 17201
+                },
+                "name": "The Herald-News - Shaw Local"
+            },
+            {
+                "id": "24790910",
+                "username": "TimesRecord",
+                "public_metrics": {
+                    "followers_count": 10730,
+                    "following_count": 786,
+                    "tweet_count": 113243,
+                    "listed_count": 272,
+                    "like_count": 1967,
+                    "media_count": 10429
+                },
+                "name": "Times Record"
+            },
+            {
+                "id": "95929092",
+                "username": "bocatribune",
+                "public_metrics": {
+                    "followers_count": 10725,
+                    "following_count": 1719,
+                    "tweet_count": 20891,
+                    "listed_count": 243,
+                    "like_count": 388,
+                    "media_count": 5374
+                },
+                "name": "Boca Raton Tribune"
+            },
+            {
+                "id": "94599930",
+                "username": "wcdailylocal",
+                "public_metrics": {
+                    "followers_count": 10717,
+                    "following_count": 1303,
+                    "tweet_count": 51132,
+                    "listed_count": 356,
+                    "like_count": 972,
+                    "media_count": 806
+                },
+                "name": "Daily Local News"
+            },
+            {
+                "id": "24776576",
+                "username": "salnews",
+                "public_metrics": {
+                    "followers_count": 10705,
+                    "following_count": 267,
+                    "tweet_count": 55257,
+                    "listed_count": 257,
+                    "like_count": 304,
+                    "media_count": 6037
+                },
+                "name": "Salinas Californian"
+            },
+            {
+                "id": "54951024",
+                "username": "KearneyHub",
+                "public_metrics": {
+                    "followers_count": 10708,
+                    "following_count": 1862,
+                    "tweet_count": 101962,
+                    "listed_count": 176,
+                    "like_count": 803,
+                    "media_count": 12717
+                },
+                "name": "Kearney Hub"
+            },
+            {
+                "id": "19344457",
+                "username": "shelbycreporter",
+                "public_metrics": {
+                    "followers_count": 10695,
+                    "following_count": 500,
+                    "tweet_count": 27984,
+                    "listed_count": 171,
+                    "like_count": 1459,
+                    "media_count": 4933
+                },
+                "name": "Shelby Co. Reporter"
+            },
+            {
+                "id": "928700565005197312",
+                "username": "zerohora",
+                "public_metrics": {
+                    "followers_count": 10664,
+                    "following_count": 0,
+                    "tweet_count": 2,
+                    "listed_count": 87,
+                    "like_count": 0,
+                    "media_count": 2
+                },
+                "name": "Jornal Zero Hora"
+            }
+        ]
+    }
+}
